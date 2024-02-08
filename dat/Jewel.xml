@@ -1,0 +1,3940 @@
+<Jewel>
+  <Normal>
+    <Data Name="【空き】" Job="共" Rare="1" Slot="1">
+      <Skills>
+      </Skills>
+      <Cost Money="0">
+      </Cost>
+    </Data>
+    <Data Name="Paralysis 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Paralysis</Skill>
+        <Skill Point="-2">Poison</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Genprey Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sleep 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Sleep</Skill>
+        <Skill Point="-2">Stun</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Sleep Sac</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sleep 2 Deco" Job="共" Rare="5" Slot="2">
+      <Skills>
+        <Skill Point="5">Sleep</Skill>
+        <Skill Point="-2">Stun</Skill>
+        <Skill Point="-2">Poison</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Hypnoc Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stun 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Stun</Skill>
+        <Skill Point="-2">Sleep</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Velociprey Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Poison 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Poison</Skill>
+        <Skill Point="-2">Paralysis</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Ioprey Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Deoderant 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Deoderant</Skill>
+        <Skill Point="-1">Health</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Antiseptic Stone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Deoderant 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Deoderant</Skill>
+        <Skill Point="-2">Health</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="3">Antiseptic Stone</Item>
+        <Item Num="1">Kurenzite</Item>
+      </Cost>
+    </Data>
+    <Data Name="Snowball Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Snowball Res</Skill>
+        <Skill Point="-2">Quake Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Perennial Frost</Item>
+      </Cost>
+    </Data>
+    <Data Name="Quake Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Quake Res</Skill>
+        <Skill Point="-1">Snowball Res</Skill>
+        <Skill Point="-1">Terrain</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Blangonga Pelt</Item>
+        <Item Num="1">Congalala Pelt</Item>
+      </Cost>
+    </Data>
+    <Data Name="Vocal Chords Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Vocal Chords</Skill>
+        <Skill Point="1">Paralysis</Skill>
+        <Skill Point="1">Poison</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Immunizer</Item>
+        <Item Num="1">Screamer</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heat 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Heat Res</Skill>
+        <Skill Point="-2">Cold Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Broken Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Cold 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Cold Res</Skill>
+        <Skill Point="-2">Heat Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Hot Pepper</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wind Pres.1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Wind Pressure</Skill>
+        <Skill Point="-2">Expert</Skill>
+        <Skill Point="-2">Status Attack</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Carpenterbug</Item>
+        <Item Num="1">Brute Bone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Terrain Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Terrain</Skill>
+        <Skill Point="-2">All Res Up</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Cephalos Scale</Item>
+        <Item Num="1">P.Rubbery Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Health 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Health</Skill>
+        <Skill Point="1">Recover Speed</Skill>
+        <Skill Point="-2">Hunger</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Mosswine Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Health 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="4">Health</Skill>
+        <Skill Point="-2">Evasion</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Bullfango Head</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recovery Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Recov</Skill>
+        <Skill Point="-2">Eating</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Kelbi Hide</Item>
+        <Item Num="1">Ancient Potion</Item>
+      </Cost>
+    </Data>
+    <Data Name="Rec Speed 1 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Recover Speed</Skill>
+        <Skill Point="-2">Hunger</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="3">Godbug</Item>
+      </Cost>
+    </Data>
+    <Data Name="Attack 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="3">Attack</Skill>
+        <Skill Point="-1">Defense</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Might Seed</Item>
+        <Item Num="1">Sharp Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Status Attack Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="3">Status Attack</Skill>
+        <Skill Point="-2">Attack</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Paralysis Sac</Item>
+        <Item Num="1">Poison Sac</Item>
+        <Item Num="1">Sleep Sac</Item>
+      </Cost>
+    </Data>
+    <Data Name="Defense 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="3">Defense</Skill>
+        <Skill Point="-1">Attack</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Adamant Seed</Item>
+        <Item Num="1">Sm Hermitaur Shl</Item>
+      </Cost>
+    </Data>
+    <Data Name="Guard 1 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="1">Guard</Skill>
+        <Skill Point="-1">Adrenaline</Skill>
+        <Skill Point="-1">Artisan</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Hermitaur Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Auto-Guard Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Auto-Guard</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Bullfango Pelt</Item>
+        <Item Num="3">Sm Hermitaur Shl</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stamina Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Stamina</Skill>
+        <Skill Point="-2">Everlasting</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Hypnoc Bezoar</Item>
+      </Cost>
+    </Data>
+    <Data Name="Hunger Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Hunger</Skill>
+        <Skill Point="-2">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Gourmet Steak</Item>
+        <Item Num="2">Slimy Mushroom</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gluttony Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Gourmand</Skill>
+        <Skill Point="-2">Hunger</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="2">Glutton Tuna</Item>
+        <Item Num="1">Bulldrome Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Eating Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Eating</Skill>
+        <Skill Point="-2">Recov</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Hypnoc Pelt</Item>
+        <Item Num="1">Demon Mushroom</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpness 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Sharpness</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Sharp Claw</Item>
+        <Item Num="1">Kurenzite</Item>
+      </Cost>
+    </Data>
+    <Data Name="Artisan Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="2">Artisan</Skill>
+        <Skill Point="2">Auto-Reload</Skill>
+        <Skill Point="-1">Adrenaline</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="2">Lunastra Horn</Item>
+        <Item Num="3">W.Monoblos Horn</Item>
+      </Cost>
+    </Data>
+    <Data Name="Expert 1 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Expert</Skill>
+        <Skill Point="-1">Recov</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="4">Anteka Antlers</Item>
+        <Item Num="1">Golden Ale</Item>
+      </Cost>
+    </Data>
+    <Data Name="Throwing 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Throwing</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Jumbo Bone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Evasion 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Evasion</Skill>
+        <Skill Point="-1">Hunger</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Mega Dash Juice</Item>
+        <Item Num="1">Small LobsterShl</Item>
+      </Cost>
+    </Data>
+    <Data Name="Combining Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="3">Combining</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Book of Combos 1</Item>
+        <Item Num="1">Book of Combos 2</Item>
+        <Item Num="1">Book of Combos 3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ammo Combo Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Ammo Combiner</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Pierce S LV3</Item>
+        <Item Num="1">Clust S Lv3</Item>
+        <Item Num="1">Dragon S</Item>
+      </Cost>
+    </Data>
+    <Data Name="Alchemy Deco" Job="共" Rare="6" Slot="1">
+      <Skills>
+        <Skill Point="3">Alchemy</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Unknown Skull</Item>
+      </Cost>
+    </Data>
+    <Data Name="Reload Deco" Job="共" Rare="6" Slot="1">
+      <Skills>
+        <Skill Point="2">Reload</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Vibrant Pelt</Item>
+        <Item Num="1">Rainbow Feather</Item>
+      </Cost>
+    </Data>
+    <Data Name="Loading Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Loading</Skill>
+        <Skill Point="-2">Combining</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Rathian Spike</Item>
+        <Item Num="2">Monster Hardbone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil 1 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Recoil</Skill>
+        <Skill Point="-2">Stamina</Skill>
+        <Skill Point="-2">Reload</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Rathalos Tail</Item>
+        <Item Num="1">A.Rathalos Tail</Item>
+      </Cost>
+    </Data>
+    <Data Name="Precision Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Precision</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="3">Anteka Antlers</Item>
+        <Item Num="1">Killer Beetle</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Up Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Normal S.Up</Skill>
+        <Skill Point="-1">Reload</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Congalala Claw</Item>
+        <Item Num="5">Rumblefish</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Up Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Pierce S.Up</Skill>
+        <Skill Point="-1">Reload</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Ceanataur Claw</Item>
+        <Item Num="5">Pin Tuna</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Up Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Pellet S.Up</Skill>
+        <Skill Point="-1">Reload</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="3">Piscine Fang</Item>
+        <Item Num="10">Wyvern Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Add 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Normal S.Add</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Lao-Shan Scale</Item>
+        <Item Num="1">Normal S LV3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Add 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Pierce S.Add</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Garuga Scale</Item>
+        <Item Num="1">Pierce S LV3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Add 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Pellet S.Add</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Cephalos Fin</Item>
+        <Item Num="1">Pellet S Lv3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Crag Add 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Crag S.Add</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="3">Rathian Scale</Item>
+        <Item Num="1">Crag S Lv3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Clust Add 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Clust S.Add</Skill>
+        <Skill Point="-1">Recoil</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="3">Gravios Shell</Item>
+        <Item Num="3">Basarios Shell</Item>
+        <Item Num="1">Clust S Lv3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpening Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Sharpening</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="2">Whetstone</Item>
+        <Item Num="1">Sunstone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Cooking Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Cooking</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Well-done Steak</Item>
+        <Item Num="1">Burnt Meat</Item>
+        <Item Num="1">Rare Steak</Item>
+      </Cost>
+    </Data>
+    <Data Name="Hearing Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="1">Hearing</Skill>
+        <Skill Point="-2">Wind Pressure</Skill>
+        <Skill Point="-2">Health</Skill>
+      </Skills>
+      <Cost Money="600">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Kut-Ku Ear</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wide-Area 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Wide-Area</Skill>
+        <Skill Point="-1">Recov</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Dosbiscus</Item>
+        <Item Num="1">Gloamgrass Root</Item>
+      </Cost>
+    </Data>
+    <Data Name="Everlasting 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Everlasting</Skill>
+        <Skill Point="-1">Wide-Area</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Immunizer</Item>
+        <Item Num="2">Lifecrystals</Item>
+      </Cost>
+    </Data>
+    <Data Name="Backpacking 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Backpacking</Skill>
+        <Skill Point="-3">Stealth</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Mega Dash Juice</Item>
+      </Cost>
+    </Data>
+    <Data Name="All UP 2 Deco" Job="共" Rare="4" Slot="2">
+      <Skills>
+        <Skill Point="3">All Res Up</Skill>
+        <Skill Point="-2">Dragon Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Daora Scale</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fire 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Fire Res</Skill>
+        <Skill Point="-2">Water Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Fire Herb</Item>
+      </Cost>
+    </Data>
+    <Data Name="Water 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Water Res</Skill>
+        <Skill Point="-2">Fire Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Knife Mackerel</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ice 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Ice Res</Skill>
+        <Skill Point="-2">Thunder Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Ice Crystal</Item>
+      </Cost>
+    </Data>
+    <Data Name="Thunder 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Thunder Res</Skill>
+        <Skill Point="-2">Ice Res</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Thunderbug</Item>
+      </Cost>
+    </Data>
+    <Data Name="Dragon 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Dragon Res</Skill>
+        <Skill Point="-3">All Res Up</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Hornetaur Head</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gathering 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Gather</Skill>
+        <Skill Point="-2">Gather Speed</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Flashbug</Item>
+        <Item Num="1">Ale Nuts</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gathering 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Gather</Skill>
+        <Skill Point="-2">Gather Speed</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Killer Beetle</Item>
+        <Item Num="2">Ale Nuts</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gather Speed Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Gather Speed</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="2">Yambug</Item>
+        <Item Num="2">Stinkhopper</Item>
+        <Item Num="2">Snakebee Larva</Item>
+      </Cost>
+    </Data>
+    <Data Name="Carving 1 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="1">Carving</Skill>
+        <Skill Point="-1">Protection</Skill>
+        <Skill Point="-1">Fate</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="10">Pawprint Stamp</Item>
+      </Cost>
+    </Data>
+    <Data Name="Protection Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Protection</Skill>
+        <Skill Point="-2">Carving</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Commendation</Item>
+        <Item Num="1">Bond Proof</Item>
+        <Item Num="1">Comradery Proof</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fate 1 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Fate</Skill>
+        <Skill Point="-1">Carving</Skill>
+        <Skill Point="-1">Hearing</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Silver Egg</Item>
+        <Item Num="1">Star Iron</Item>
+      </Cost>
+    </Data>
+    <Data Name="Anti-Theft Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="4">Anti-Theft</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Pawprint Stamp</Item>
+        <Item Num="1">Unknown Skull</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fishing Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Fish</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="5">Cricket</Item>
+        <Item Num="5">Stone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Map Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Map</Skill>
+        <Skill Point="-1">Psychic</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Amber Ore</Item>
+      </Cost>
+    </Data>
+    <Data Name="Psychic 1 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="1">Psychic</Skill>
+        <Skill Point="-1">Stealth</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Binoculars</Item>
+        <Item Num="1">Psychoserum</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stealth Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="2">Stealth</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="1">Vespoid Wing</Item>
+        <Item Num="1">Hornetaur Wing</Item>
+      </Cost>
+    </Data>
+    <Data Name="Adrenaline Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Adrenaline</Skill>
+        <Skill Point="-2">Artisan</Skill>
+        <Skill Point="-1">Carving</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Kirin Horn</Item>
+        <Item Num="10">Kelbi Horn</Item>
+      </Cost>
+    </Data>
+    <Data Name="Monster Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="4">Monster</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Speartuna</Item>
+      </Cost>
+    </Data>
+    <Data Name="Paralysis 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="5">Paralysis</Skill>
+        <Skill Point="-2">Poison</Skill>
+        <Skill Point="-2">Stun</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="8">Genprey Fang</Item>
+        <Item Num="1">Thunderbug</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stun 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Stun</Skill>
+        <Skill Point="-2">Sleep</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Black Pearl</Item>
+        <Item Num="5">Velociprey Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stun 3 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="5">Stun</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="10">Velociprey Fang</Item>
+        <Item Num="1">Chaos Shroom</Item>
+      </Cost>
+    </Data>
+    <Data Name="Poison 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="5">Poison</Skill>
+        <Skill Point="-2">Paralysis</Skill>
+        <Skill Point="-2">Sleep</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="8">Ioprey Fang</Item>
+        <Item Num="1">Poison Sac</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heat 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Heat Res</Skill>
+        <Skill Point="-2">Cold Res</Skill>
+        <Skill Point="1">Terrain</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Ice Crystal</Item>
+        <Item Num="2">Perennial Frost</Item>
+      </Cost>
+    </Data>
+    <Data Name="Cold 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Cold Res</Skill>
+        <Skill Point="-2">Heat Res</Skill>
+        <Skill Point="1">Snowball Res</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Sunstone</Item>
+        <Item Num="1">Rath Fluid</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wind Pres. 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="5">Wind Pressure</Skill>
+        <Skill Point="-2">Sharpness</Skill>
+        <Skill Point="-2">Guard</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Daora Scale</Item>
+        <Item Num="4">Lao-Shan Shell</Item>
+        <Item Num="2">Pale Extract</Item>
+      </Cost>
+    </Data>
+    <Data Name="Health 3 Deco" Job="共" Rare="6" Slot="3">
+      <Skills>
+        <Skill Point="5">Health</Skill>
+        <Skill Point="4">Recover Speed</Skill>
+        <Skill Point="3">Stamina</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Monoblos Heart</Item>
+        <Item Num="5">Elder Dragon Blood</Item>
+        <Item Num="3">Drgn Scale Fossil</Item>
+      </Cost>
+    </Data>
+    <Data Name="Rec Speed 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Recover Speed</Skill>
+        <Skill Point="1">Stamina</Skill>
+        <Skill Point="-3">Hunger</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="3">Lifepowder</Item>
+        <Item Num="10">Immunizer</Item>
+        <Item Num="10">Kelbi Horn</Item>
+      </Cost>
+    </Data>
+    <Data Name="Attack 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="4">Attack</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Brute Bone</Item>
+        <Item Num="1">Might Pill</Item>
+      </Cost>
+    </Data>
+    <Data Name="Defense 3 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="4">Defense</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Brute Bone</Item>
+        <Item Num="1">Adamant Pill</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpness 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Sharpness</Skill>
+        <Skill Point="2">Attack</Skill>
+        <Skill Point="-1">Stamina</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Ceanataur Pincer</Item>
+        <Item Num="1">Volganos Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Expert 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Expert</Skill>
+        <Skill Point="1">Attack</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Sharpened Beak</Item>
+        <Item Num="2">Twisted Horn</Item>
+      </Cost>
+    </Data>
+    <Data Name="Evasion 2 Deco" Job="共" Rare="6" Slot="1">
+      <Skills>
+        <Skill Point="3">Evasion</Skill>
+        <Skill Point="-2">Hunger</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="2">Kirin Mane</Item>
+        <Item Num="1">Large LobsterShl</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Recoil</Skill>
+        <Skill Point="-2">Reload</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">R.Daora Webbing+</Item>
+        <Item Num="2">Wyvern Gem</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Add 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="5">Normal S.Add</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Teostra Horn</Item>
+        <Item Num="1">Lunastra Horn</Item>
+        <Item Num="10">Normal S LV3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Add 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Pierce S.Add</Skill>
+        <Skill Point="1">Pellet S.Add</Skill>
+        <Skill Point="1">Crag S.Add</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="6">Diablos Fang</Item>
+        <Item Num="1">R.Daora Webbing+</Item>
+        <Item Num="6">Pierce S LV3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Add 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Pellet S.Add</Skill>
+        <Skill Point="1">Pierce S.Add</Skill>
+        <Skill Point="1">Crag S.Add</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Vibrant Pelt</Item>
+        <Item Num="1">Blangonga Fang+</Item>
+        <Item Num="6">Pellet S Lv3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Crag Add 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Crag S.Add</Skill>
+        <Skill Point="1">Pierce S.Add</Skill>
+        <Skill Point="1">Pellet S.Add</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Fire Wyvern Marrw</Item>
+        <Item Num="1">Gravios Marrow</Item>
+        <Item Num="5">Crag S Lv3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Clust Add 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="4">Clust S.Add</Skill>
+        <Skill Point="1">Pierce S.Add</Skill>
+        <Skill Point="1">Pellet S.Add</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="2">Fire Dragon Scale</Item>
+        <Item Num="1">Drgn Scale Fossil</Item>
+        <Item Num="3">Clust S Lv3</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bomb Boost Deco" Job="共" Rare="5" Slot="2">
+      <Skills>
+        <Skill Point="2">Bomb Boost</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Rath Fluid</Item>
+        <Item Num="1">Flame Sac</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gunnery Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Gunnery</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="5">Flame Sac</Item>
+        <Item Num="10">Gunpowder</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wide-Area 2 Deco" Job="共" Rare="5" Slot="2">
+      <Skills>
+        <Skill Point="4">Wide-Area</Skill>
+        <Skill Point="-3">Recov</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="2">Bond Proof</Item>
+        <Item Num="1">Vespoid Abdomen</Item>
+      </Cost>
+    </Data>
+    <Data Name="Everlasting 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="5">Everlasting</Skill>
+        <Skill Point="-1">Wide-Area</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="2">Max Potion</Item>
+        <Item Num="1">Hypnoc Bezoar+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Backpacking 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="5">Backpacking</Skill>
+        <Skill Point="2">Evasion</Skill>
+        <Skill Point="1">Stamina</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Gypceros Head</Item>
+      </Cost>
+    </Data>
+    <Data Name="All UP 3 Deco" Job="共" Rare="5" Slot="2">
+      <Skills>
+        <Skill Point="4">All Res Up</Skill>
+        <Skill Point="-5">Dragon Res</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Daora Claw</Item>
+        <Item Num="1">Fire Dragon Claw</Item>
+        <Item Num="1">Chameleos Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fire 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Fire Res</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Flame Sac</Item>
+      </Cost>
+    </Data>
+    <Data Name="Water 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Water Res</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Plesioth Scale</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ice 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Ice Res</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="6">Giaprey Scale</Item>
+      </Cost>
+    </Data>
+    <Data Name="Thunder 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Thunder Res</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Electro Sac</Item>
+      </Cost>
+    </Data>
+    <Data Name="Dragon 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Dragon Res</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Elder Dragon Blood</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gathering 3 Deco" Job="共" Rare="6" Slot="1">
+      <Skills>
+        <Skill Point="4">Gather</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Hercudrome</Item>
+        <Item Num="5">Ale Nuts</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gather Spd 2 Deco" Job="共" Rare="4" Slot="1">
+      <Skills>
+        <Skill Point="3">Gather Speed</Skill>
+      </Skills>
+      <Cost Money="400">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Remobra Skull</Item>
+      </Cost>
+    </Data>
+    <Data Name="Carving 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="2">Carving</Skill>
+        <Skill Point="1">Gather Speed</Skill>
+        <Skill Point="-2">Protection</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="2">Daora Jewel</Item>
+        <Item Num="2">Chameleos Jewel</Item>
+        <Item Num="2">Fire Dragon Jewel</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fate 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="6">Fate</Skill>
+        <Skill Point="-2">Carving</Skill>
+        <Skill Point="-2">Hearing</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">Gold Egg</Item>
+        <Item Num="1">Jewel Ticket</Item>
+      </Cost>
+    </Data>
+    <Data Name="Psychic 2 Deco" Job="共" Rare="5" Slot="2">
+      <Skills>
+        <Skill Point="3">Psychic</Skill>
+        <Skill Point="-2">Stealth</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Remobra Skull</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gallery Atk Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Attack</Skill>
+        <Skill Point="2">Adrenaline</Skill>
+        <Skill Point="2">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Gallery Def Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Defense</Skill>
+        <Skill Point="2">Wind Pressure</Skill>
+        <Skill Point="2">Quake Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Guard 2 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Guard</Skill>
+        <Skill Point="-2">Sharpening</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="1">R.Daora Shell</Item>
+        <Item Num="1">Basarios Tears</Item>
+      </Cost>
+    </Data>
+    <Data Name="Earplugs Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Hearing</Skill>
+        <Skill Point="-2">Expert</Skill>
+        <Skill Point="-2">Adrenaline</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Garuga Ear</Item>
+        <Item Num="3">Elder Dragon Blood</Item>
+      </Cost>
+    </Data>
+    <Data Name="All UP 1 Deco" Job="共" Rare="6" Slot="3">
+      <Skills>
+        <Skill Point="10">All Res Up</Skill>
+        <Skill Point="-5">Dragon Res</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="2">Kirin Azure Horn</Item>
+        <Item Num="2">Aminotite</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fire 3 Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Fire Res</Skill>
+        <Skill Point="1">Bomb Boost</Skill>
+        <Skill Point="5">Cold Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Water 3 Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Water Res</Skill>
+        <Skill Point="2">Recov</Skill>
+        <Skill Point="3">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Ice 3 Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Ice Res</Skill>
+        <Skill Point="5">Snowball Res</Skill>
+        <Skill Point="5">Heat Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Thunder 3 Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Thunder Res</Skill>
+        <Skill Point="3">Stun</Skill>
+        <Skill Point="3">Paralysis</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Dragon 3 Deco" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Dragon Res</Skill>
+        <Skill Point="2">Status Attack</Skill>
+        <Skill Point="5">Monster</Skill>
+      </Skills>
+      <Cost Money="50000">
+      </Cost>
+    </Data>
+    <Data Name="Psychic 3 Deco" Job="共" Rare="6" Slot="2">
+      <Skills>
+        <Skill Point="3">Psychic</Skill>
+        <Skill Point="2">Evasion</Skill>
+        <Skill Point="-2">Stealth</Skill>
+      </Skills>
+      <Cost Money="2500">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="1">Fatalis Evil Eye</Item>
+      </Cost>
+    </Data>
+    <Data Name="Focus Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Focus</Skill>
+        <Skill Point="-2">Expert</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="1">Guren Horn</Item>
+        <Item Num="5">Pelican Ore</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bond Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Bond</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="2">Beru Carapace</Item>
+        <Item Num="2">Lifepowder</Item>
+      </Cost>
+    </Data>
+    <Data Name="Capture Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Capture Pro.</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Gogomoa Claw+</Item>
+        <Item Num="5">Fragrant Grass</Item>
+        <Item Num="5">Kouzandake</Item>
+      </Cost>
+    </Data>
+    <Data Name="Passive Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Passive</Skill>
+        <Skill Point="1">Stamina</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Orugaron Claw</Item>
+        <Item Num="3">Anti-Flinch Fruit</Item>
+      </Cost>
+    </Data>
+    <Data Name="Flute Expert Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Flute Expert</Skill>
+        <Skill Point="-1">Health</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Paria Fin</Item>
+        <Item Num="3">Health Flute</Item>
+        <Item Num="3">Antidote Flute</Item>
+      </Cost>
+    </Data>
+    <Data Name="Trapper Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="2">Speed Setup</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Bloodrun Jewel</Item>
+        <Item Num="2">Dora Wing</Item>
+        <Item Num="2">Shock Trap</Item>
+        <Item Num="2">Barrel Bomb L</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pressure Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Pressure</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="3">Gogomoa Horn+</Item>
+        <Item Num="5">Soft Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Throwing 2 Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="3">Knife Throwing</Skill>
+        <Skill Point="1">Sharpening</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="2">Abiorugu Tail</Item>
+        <Item Num="5">Barrel Locust</Item>
+      </Cost>
+    </Data>
+    <Data Name="Caring Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="4">Caring</Skill>
+        <Skill Point="1">Recov</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="4">Zamuza Stoneshell</Item>
+        <Item Num="5">Clean Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Def Lock Deco" Job="共" Rare="5" Slot="1">
+      <Skills>
+        <Skill Point="4">Def Lock</Skill>
+        <Skill Point="-2">Defense</Skill>
+      </Skills>
+      <Cost Money="1200">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="4">Zamuza Stoneclaw</Item>
+        <Item Num="5">Fragrant Grass</Item>
+      </Cost>
+    </Data>
+    <Data Name="Hermit G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Expert</Skill>
+        <Skill Point="3">Status Attack</Skill>
+        <Skill Point="3">Quake Res</Skill>
+        <Skill Point="-5">Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="3">Expert 2 Deco</Item>
+        <Item Num="15">Piscine Blood+</Item>
+        <Item Num="15">Carapaceon Cpc</Item>
+        <Item Num="15">F.Wyvern Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Defense G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Defense</Skill>
+        <Skill Point="1">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Defense 3 Deco</Item>
+        <Item Num="15">Piscine Gills+</Item>
+        <Item Num="15">F.Wyvern Tail+</Item>
+        <Item Num="15">Pelagus Hide+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Edge G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Sharpness</Skill>
+        <Skill Point="1">Sharpening</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="3">Sharpness 2 Deco</Item>
+        <Item Num="15">Piscine Tusk+</Item>
+        <Item Num="15">F.Wyvern Fang+</Item>
+        <Item Num="15">Pelagus Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Recoil</Skill>
+        <Skill Point="2">Loading</Skill>
+        <Skill Point="-2">Adrenaline</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="2">Recoil 2 Deco</Item>
+        <Item Num="15">B.Wyvern Pelt+</Item>
+        <Item Num="15">F.Wyvern Spike+</Item>
+        <Item Num="15">F.Wyvern Gem+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sterile G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Poison</Skill>
+        <Skill Point="2">Recover Speed</Skill>
+        <Skill Point="2">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Poison 2 Deco</Item>
+        <Item Num="15">B.Wyvern Gem+</Item>
+        <Item Num="15">F.Wyvern Fluid+</Item>
+        <Item Num="15">Carapaceon Pincer+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Awareness G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Stun</Skill>
+        <Skill Point="1">Protection</Skill>
+        <Skill Point="1">Evasion</Skill>
+        <Skill Point="1">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Stun 3 Deco</Item>
+        <Item Num="15">B.Wyvern Claw+</Item>
+        <Item Num="15">F.Wyvern Gem+</Item>
+        <Item Num="15">F.Wyvern Liver+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Earplug G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Hearing</Skill>
+        <Skill Point="-3">Adrenaline</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="3">Earplugs Deco</Item>
+        <Item Num="15">B.Wyvern Beak+</Item>
+        <Item Num="15">F.Wyvern Skin+</Item>
+        <Item Num="15">F.Wyvern Marrow+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Flute G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Flute Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="15">Piscine Blood+</Item>
+        <Item Num="15">Carapaceon Pincer+</Item>
+        <Item Num="15">F.Wyvern Gem+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Escape G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Breakout</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="30">Piscine Gills+</Item>
+        <Item Num="30">Carapaceon Cpc</Item>
+        <Item Num="30">F.Wyvern Liver+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Taijutsu G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Taijutsu</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="30">Piscine Tusk+</Item>
+        <Item Num="30">F.Wyvern Tail+</Item>
+        <Item Num="30">F.Wyvern Marrow+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Strong Arm G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Strong Arm</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="15">B.Wyvern Pelt+</Item>
+        <Item Num="15">F.Wyvern Fang+</Item>
+        <Item Num="15">Piscine Blood+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Inspiration G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Inspiration</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="15">B.Wyvern Gem+</Item>
+        <Item Num="15">F.Wyvern Spike+</Item>
+        <Item Num="15">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Passive G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Passive</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="15">B.Wyvern Claw+</Item>
+        <Item Num="15">F.Wyvern Fluid+</Item>
+        <Item Num="15">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Psychic 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Psychic</Skill>
+        <Skill Point="5">Whim</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Psychic 3 Deco</Item>
+        <Item Num="15">B.Wyvern Beak+</Item>
+        <Item Num="15">F.Wyvern Gem+</Item>
+        <Item Num="15">B.Wyvern Pelt+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pressure G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pressure</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="30">Pelagus Hide+</Item>
+        <Item Num="30">F.Wyvern Skin+</Item>
+        <Item Num="30">B.Wyvern Gem+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Capture G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Capture Pro.</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="30">Pelagus Fang+</Item>
+        <Item Num="30">F.Wyvern Carapace</Item>
+        <Item Num="30">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Auto-Guard G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Auto-Guard</Skill>
+        <Skill Point="2">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Auto-Guard Deco</Item>
+        <Item Num="15">Piscine Fin+</Item>
+        <Item Num="15">Carapaceon Blade+</Item>
+        <Item Num="15">F.Wyvern Wing+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Speech G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Vocal Chords</Skill>
+        <Skill Point="3">Paralysis</Skill>
+        <Skill Point="3">Poison</Skill>
+        <Skill Point="-5">Hunger</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Vocal Chords Deco</Item>
+        <Item Num="15">F.Wyvern Claw+</Item>
+        <Item Num="15">Piscine Scale+</Item>
+        <Item Num="15">Carapaceon Cpc</Item>
+      </Cost>
+    </Data>
+    <Data Name="Doctor G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Combining</Skill>
+        <Skill Point="2">Alchemy</Skill>
+        <Skill Point="1">Wide-Area</Skill>
+        <Skill Point="1">Everlasting</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="3">Combining Deco</Item>
+        <Item Num="15">B.Wyvern Bone+</Item>
+        <Item Num="15">Pelagus Hide+</Item>
+        <Item Num="15">F.Wyvern Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bond G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Bond</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="5">Lazurite Jewel</Item>
+        <Item Num="15">Pelagus Tail+</Item>
+        <Item Num="15">F.Wyvern Bone+</Item>
+        <Item Num="15">B.Wyvern Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fasting 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Fasting</Skill>
+        <Skill Point="2">Expert</Skill>
+        <Skill Point="-2">Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Rattail Jewel</Item>
+        <Item Num="5">Lynian Trsr+</Item>
+        <Item Num="5">Insect Needle+</Item>
+        <Item Num="5">F.Wyvern Wing+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Focus 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Focus</Skill>
+        <Skill Point="2">Attack</Skill>
+        <Skill Point="-2">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Bullhorn Jewel</Item>
+        <Item Num="5">Herbivore Horn+</Item>
+        <Item Num="5">Carapaceon Pincer+</Item>
+        <Item Num="5">B.Wyvern Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Guts G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Guts</Skill>
+        <Skill Point="3">Heat Res</Skill>
+        <Skill Point="3">Poison</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Tigerclaw Jewel</Item>
+        <Item Num="5">Pelagus Hide+</Item>
+        <Item Num="5">F.Wyvern Fang+</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Trapper G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Speed Setup</Skill>
+        <Skill Point="3">Cold Res</Skill>
+        <Skill Point="3">Paralysis</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Rabittear Jewel</Item>
+        <Item Num="5">Insect Carapace</Item>
+        <Item Num="5">Piscine Fin+</Item>
+        <Item Num="5">Pelagus Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fire Atk G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Fire Attack</Skill>
+        <Skill Point="5">Recover Speed</Skill>
+        <Skill Point="-3">Water Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Dragoneye Jewel</Item>
+        <Item Num="5">Carapaceon Cpc</Item>
+        <Item Num="5">B.Wyvern Hide+</Item>
+        <Item Num="5">F.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Water Atk G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Water Attack</Skill>
+        <Skill Point="3">Recov</Skill>
+        <Skill Point="-3">Thunder Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Snakeskin Jewel</Item>
+        <Item Num="5">F.Wyvern Carapace</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Thunder Atk G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Thunder Attack</Skill>
+        <Skill Point="5">Stun</Skill>
+        <Skill Point="-3">Ice Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Horsehoof Jewel</Item>
+        <Item Num="5">Piscine Scale+</Item>
+        <Item Num="5">Pelagus Claw+</Item>
+        <Item Num="5">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ice Atk G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Ice Attack</Skill>
+        <Skill Point="5">Sleep</Skill>
+        <Skill Point="-3">Fire Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Sheepwool Jewel</Item>
+        <Item Num="5">B.Wyvern Carapace</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Dragon Atk G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Dragon Attack</Skill>
+        <Skill Point="5">Terrain</Skill>
+        <Skill Point="-3">All Res Up</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Monkeybutt Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bomb Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Blast Sword</Skill>
+        <Skill Point="3">Sharpening</Skill>
+        <Skill Point="-4">Health</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Chickenwing Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">F.Wyvern Claw+</Item>
+        <Item Num="5">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Dragon Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Dragon Sword</Skill>
+        <Skill Point="3">Defense</Skill>
+        <Skill Point="-4">Cooking</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Dogtooth Jewel</Item>
+        <Item Num="5">Pelagus Fang+</Item>
+        <Item Num="5">Piscine Blood+</Item>
+        <Item Num="5">B.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Poison Coating G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Poison C.Add</Skill>
+        <Skill Point="5">Normal S.Up</Skill>
+        <Skill Point="-2">Reload</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Boarcrest Jewel</Item>
+        <Item Num="5">Lynian Trsr+</Item>
+        <Item Num="5">Insect Needle+</Item>
+        <Item Num="5">F.Wyvern Wing+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Para Coating G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Para C.Add</Skill>
+        <Skill Point="5">Pellet S.Up</Skill>
+        <Skill Point="-2">Auto-Reload</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Mastodon Jewel</Item>
+        <Item Num="5">Herbivore Horn+</Item>
+        <Item Num="5">Carapaceon Pincer+</Item>
+        <Item Num="5">B.Wyvern Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sleep Coating G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Sleep C.Add</Skill>
+        <Skill Point="5">Pierce S.Up</Skill>
+        <Skill Point="-2">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Leomane Jewel</Item>
+        <Item Num="5">Pelagus Hide+</Item>
+        <Item Num="5">F.Wyvern Fang+</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Poison Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Poison Sword</Skill>
+        <Skill Point="3">Eating</Skill>
+        <Skill Point="-3">Defense</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Ursine Jewel</Item>
+        <Item Num="5">Insect Carapace</Item>
+        <Item Num="5">Piscine Fin+</Item>
+        <Item Num="5">Pelagus Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Paralysis Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Para Sword</Skill>
+        <Skill Point="3">Passive</Skill>
+        <Skill Point="-4">Sharpness</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Rhino Horn Jewel</Item>
+        <Item Num="5">Carapaceon Cpc</Item>
+        <Item Num="5">B.Wyvern Hide+</Item>
+        <Item Num="5">F.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sleep Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Sleep Sword</Skill>
+        <Skill Point="3">Quake Res</Skill>
+        <Skill Point="-4">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Tanuki Jewel</Item>
+        <Item Num="5">F.Wyvern Carapace</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fire Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Fire Sword</Skill>
+        <Skill Point="5">Gourmand</Skill>
+        <Skill Point="-3">Deoderant</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Prowler Jewel</Item>
+        <Item Num="5">Piscine Scale+</Item>
+        <Item Num="5">Pelagus Claw+</Item>
+        <Item Num="5">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Water Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Water Sword</Skill>
+        <Skill Point="5">Gather</Skill>
+        <Skill Point="-3">Stealth</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Crockjaw Jewel</Item>
+        <Item Num="5">B.Wyvern Carapace</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Thunder Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Thunder Sword</Skill>
+        <Skill Point="5">Psychic</Skill>
+        <Skill Point="-3">Throwing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Foxtail Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ice Sword G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Ice Sword</Skill>
+        <Skill Point="5">Combining</Skill>
+        <Skill Point="-3">Bomb Boost</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Wolffang Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">F.Wyvern Claw+</Item>
+        <Item Num="5">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wall G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Guard</Skill>
+        <Skill Point="5">Everlasting</Skill>
+        <Skill Point="-3">Wind Pressure</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Whaletide Jewel</Item>
+        <Item Num="5">Lynian Trsr+</Item>
+        <Item Num="5">Insect Needle+</Item>
+        <Item Num="5">F.Wyvern Wing+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Reload G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Reload</Skill>
+        <Skill Point="5">Combining</Skill>
+        <Skill Point="-3">Recoil</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Weaselscythe Jewel</Item>
+        <Item Num="5">Herbivore Horn+</Item>
+        <Item Num="5">Carapaceon Pincer+</Item>
+        <Item Num="5">B.Wyvern Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Auto-Reload G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Auto-Reload</Skill>
+        <Skill Point="5">Snowball Res</Skill>
+        <Skill Point="-3">Fasting</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Crowbeak Jewel</Item>
+        <Item Num="5">Pelagus Hide+</Item>
+        <Item Num="5">F.Wyvern Fang+</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bomber G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Bomb Boost</Skill>
+        <Skill Point="5">Alchemy</Skill>
+        <Skill Point="5">Combining</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Eaglewing Jewel</Item>
+        <Item Num="5">Insect Carapace</Item>
+        <Item Num="5">Piscine Fin+</Item>
+        <Item Num="5">Pelagus Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Protection G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Protection</Skill>
+        <Skill Point="5">Hunger</Skill>
+        <Skill Point="-3">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Owl Eye Jewel</Item>
+        <Item Num="5">Carapaceon Cpc</Item>
+        <Item Num="5">B.Wyvern Hide+</Item>
+        <Item Num="5">F.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Paperweight G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Wind Pressure</Skill>
+        <Skill Point="5">Sleep</Skill>
+        <Skill Point="-3">Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Pignose Jewel</Item>
+        <Item Num="5">F.Wyvern Carapace</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Nimble G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Evasion</Skill>
+        <Skill Point="5">Poison</Skill>
+        <Skill Point="-3">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Swallowtail Jewel</Item>
+        <Item Num="5">Piscine Scale+</Item>
+        <Item Num="5">Pelagus Claw+</Item>
+        <Item Num="5">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stamina G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Stamina</Skill>
+        <Skill Point="5">Paralysis</Skill>
+        <Skill Point="-2">Psychic</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Stag Antler Jewel</Item>
+        <Item Num="5">B.Wyvern Carapace</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pinpoint G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Precision</Skill>
+        <Skill Point="5">Ammo Combiner</Skill>
+        <Skill Point="-3">Loading</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Sparrowdance Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gunnery 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Gunnery</Skill>
+        <Skill Point="5">Stun</Skill>
+        <Skill Point="-3">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Sharkjaw Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">F.Wyvern Claw+</Item>
+        <Item Num="5">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Attack G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Attack</Skill>
+        <Skill Point="5">Recover Speed</Skill>
+        <Skill Point="-5">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Cranethroat Jewel</Item>
+        <Item Num="5">Piscine Blood+</Item>
+        <Item Num="5">F.Wyvern Fluid+</Item>
+        <Item Num="5">Pelagus Hide+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Eating 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Eating</Skill>
+        <Skill Point="5">Passive</Skill>
+        <Skill Point="-3">Everlasting</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Cat's Eye Jewel</Item>
+        <Item Num="5">Pelagus Fang+</Item>
+        <Item Num="5">F.Wyvern Spike+</Item>
+        <Item Num="5">F.Wyvern Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpening G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Sharpening</Skill>
+        <Skill Point="3">Protection</Skill>
+        <Skill Point="-3">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Turtleshell Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Carapaceon Cpc</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Steadiness G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Quake Res</Skill>
+        <Skill Point="5">Defense</Skill>
+        <Skill Point="-3">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Blackened Jewel</Item>
+        <Item Num="5">Herbivore Horn+</Item>
+        <Item Num="5">Carapaceon Pincer+</Item>
+        <Item Num="5">B.Wyvern Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Treasure G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Fate</Skill>
+        <Skill Point="5">Gather Speed</Skill>
+        <Skill Point="-3">Carving</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Iris Jewel</Item>
+        <Item Num="5">Pelagus Hide+</Item>
+        <Item Num="5">F.Wyvern Fang+</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Loading G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">Loading</Skill>
+        <Skill Point="5">Stealth</Skill>
+        <Skill Point="-3">Precision</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Horsetail Jewel</Item>
+        <Item Num="5">Insect Carapace</Item>
+        <Item Num="5">Piscine Fin+</Item>
+        <Item Num="5">Pelagus Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Resist G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">All Res Up</Skill>
+        <Skill Point="5">Deoderant</Skill>
+        <Skill Point="-3">Dragon Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Moonlit Jewel</Item>
+        <Item Num="5">Carapaceon Cpc</Item>
+        <Item Num="5">B.Wyvern Hide+</Item>
+        <Item Num="5">F.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wide Area G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Wide-Area</Skill>
+        <Skill Point="5">Recov</Skill>
+        <Skill Point="-3">Combining</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Beige Jewel</Item>
+        <Item Num="5">F.Wyvern Carapace</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Add G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Normal S.Add</Skill>
+        <Skill Point="2">Loading</Skill>
+        <Skill Point="-3">Poison C.Add</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Orange Jewel</Item>
+        <Item Num="5">Piscine Scale+</Item>
+        <Item Num="5">Pelagus Claw+</Item>
+        <Item Num="5">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Add G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Pierce S.Add</Skill>
+        <Skill Point="3">Recoil</Skill>
+        <Skill Point="-3">Sleep C.Add</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Pewter Jewel</Item>
+        <Item Num="5">B.Wyvern Carapace</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Add G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Pellet S.Add</Skill>
+        <Skill Point="3">Reload</Skill>
+        <Skill Point="-3">Para C.Add</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Cream Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Laziness G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="-4">Sleep</Skill>
+        <Skill Point="-4">Everlasting</Skill>
+        <Skill Point="-4">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Storage Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">F.Wyvern Claw+</Item>
+        <Item Num="5">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fraility G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="-4">Poison</Skill>
+        <Skill Point="-4">Paralysis</Skill>
+        <Skill Point="-4">Stun</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Shion Jewel</Item>
+        <Item Num="5">Pelagus Fang+</Item>
+        <Item Num="5">Piscine Blood+</Item>
+        <Item Num="5">B.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Caring G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Caring</Skill>
+        <Skill Point="3">Fate</Skill>
+        <Skill Point="-3">Wide-Area</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Pink Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">Carapaceon Pincer+</Item>
+        <Item Num="5">B.Wyvern Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Willpower G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">Stamina Recov</Skill>
+        <Skill Point="5">Everlasting</Skill>
+        <Skill Point="-3">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">White Tea Jewel</Item>
+        <Item Num="5">Brute Scale+</Item>
+        <Item Num="5">F.Wyvern Fang+</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Dragon Res G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">Dragon Res</Skill>
+        <Skill Point="4">Wind Pressure</Skill>
+        <Skill Point="-2">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Dry Tea Jewel</Item>
+        <Item Num="5">Brute Tail</Item>
+        <Item Num="5">Piscine Fin+</Item>
+        <Item Num="5">Pelagus Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Def Lock G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Def Lock</Skill>
+        <Skill Point="4">Guard</Skill>
+        <Skill Point="-4">Hunger</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Alabaster Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">B.Wyvern Hide+</Item>
+        <Item Num="5">F.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Up G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">Normal S.Up</Skill>
+        <Skill Point="3">Loading</Skill>
+        <Skill Point="-2">Pierce S.Up</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Golden Jewel</Item>
+        <Item Num="5">Brute Tail</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Up G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">Pierce S.Up</Skill>
+        <Skill Point="4">Precision</Skill>
+        <Skill Point="-2">Pellet S.Up</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Speckled Jewel</Item>
+        <Item Num="5">Brute Scale+</Item>
+        <Item Num="5">Pelagus Claw+</Item>
+        <Item Num="5">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Up G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="4">Pellet S.Up</Skill>
+        <Skill Point="4">Evasion</Skill>
+        <Skill Point="-2">Normal S.Up</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Linseed Jewel</Item>
+        <Item Num="5">Brute Scale+</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Self-Defence G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Evasion</Skill>
+        <Skill Point="3">Hearing</Skill>
+        <Skill Point="-3">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Willow Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ele Atk 1 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Element Attack</Skill>
+        <Skill Point="2">Sharpness</Skill>
+        <Skill Point="-3">All Res Up</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Floral Jewel</Item>
+        <Item Num="5">Brute Tail</Item>
+        <Item Num="5">F.Wyvern Claw+</Item>
+        <Item Num="5">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Status Atk G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Status Attack</Skill>
+        <Skill Point="4">Bomb Boost</Skill>
+        <Skill Point="-3">Combining</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Budding Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">Piscine Blood+</Item>
+        <Item Num="5">B.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil 2 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="2">Recoil</Skill>
+        <Skill Point="2">Precision</Skill>
+        <Skill Point="2">Ammo Combiner</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Indigo Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">Carapaceon Pincer+</Item>
+        <Item Num="5">B.Wyvern Fang+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Handling G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Wpn Handling</Skill>
+        <Skill Point="3">Def Lock</Skill>
+        <Skill Point="-3">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Deep Blue Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">F.Wyvern Fang+</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Throwing G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Knife Throwing</Skill>
+        <Skill Point="3">Status Attack</Skill>
+        <Skill Point="-2">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Rust Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">Piscine Fin+</Item>
+        <Item Num="5">Pelagus Tail+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Guard G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Guard</Skill>
+        <Skill Point="3">Wind Pressure</Skill>
+        <Skill Point="2">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Yellow Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">B.Wyvern Hide+</Item>
+        <Item Num="5">F.Wyvern Bone+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Focus 2 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Focus</Skill>
+        <Skill Point="3">Evasion</Skill>
+        <Skill Point="2">Adrenaline</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Wet Crow Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Piscine Tusk+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Psychic 2 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Psychic</Skill>
+        <Skill Point="3">Speed Setup</Skill>
+        <Skill Point="-2">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Scarlet Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">Pelagus Claw+</Item>
+        <Item Num="5">B.Wyvern Claw+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fasting 2 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Fasting</Skill>
+        <Skill Point="3">Stamina Recov</Skill>
+        <Skill Point="-2">Adrenaline</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Purple Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gunnery 2 G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="3">Gunnery</Skill>
+        <Skill Point="2">Sharpness</Skill>
+        <Skill Point="-2">Sharpening</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Realgar Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Evasion G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Evasion</Skill>
+        <Skill Point="5">Breakout</Skill>
+        <Skill Point="-3">Stamina Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Orchid Jewel</Item>
+        <Item Num="5">Leviathan Hide+</Item>
+        <Item Num="5">F.Wyvern Claw+</Item>
+        <Item Num="5">Piscine Gills+</Item>
+      </Cost>
+    </Data>
+    <Data Name="Quake Res G" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="5">Quake Res</Skill>
+        <Skill Point="5">Passive</Skill>
+        <Skill Point="-2">Element Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="15">Lime Jewel</Item>
+        <Item Num="5">Leviathan Scale+</Item>
+        <Item Num="5">Carapaceon Blade+</Item>
+        <Item Num="5">F.Wyvern Skin+</Item>
+      </Cost>
+    </Data>
+  </Normal>
+  <SP>
+    <Data Name="【空きＳＰ】" Job="共" Rare="1" Slot="1">
+      <Skills>
+      </Skills>
+      <Cost Money="0">
+      </Cost>
+    </Data>
+    <Data Name="Artisan SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Artisan</Skill>
+        <Skill Point="-20">Adrenaline</Skill>
+        <Skill Point="-5">Stun</Skill>
+        <Skill Point="-20">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Herbivore Hardhorn</Item>
+        <Item Num="2">Herbivore Hardbone</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Recoil</Skill>
+        <Skill Point="-15">Precision</Skill>
+        <Skill Point="-5">Stealth</Skill>
+        <Skill Point="-20">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Herbivore Hardfang</Item>
+        <Item Num="2">Herbivore Hoof++</Item>
+      </Cost>
+    </Data>
+    <Data Name="Assault SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Attack</Skill>
+        <Skill Point="-15">Recov</Skill>
+        <Skill Point="-5">All Res Up</Skill>
+        <Skill Point="-20">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Lynian Divine Ruby</Item>
+        <Item Num="2">Lynian Hdn Trsr</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpness SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Sharpness</Skill>
+        <Skill Point="7">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">B.Wyvern Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wind Pres.SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Wind Pressure</Skill>
+        <Skill Point="7">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Piscine Blood</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpen SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Sharpening</Skill>
+        <Skill Point="7">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+        <Item Num="5">Pelagus Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ammosmith SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Ammo Combiner</Skill>
+        <Skill Point="7">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Lynian Trsr+</Item>
+        <Item Num="5">Carapaceon Pincer</Item>
+      </Cost>
+    </Data>
+    <Data Name="Loading SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Loading</Skill>
+        <Skill Point="7">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Horn+</Item>
+        <Item Num="5">F.Wyvern Skin</Item>
+      </Cost>
+    </Data>
+    <Data Name="Reload SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Reload</Skill>
+        <Skill Point="7">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Fang+</Item>
+        <Item Num="5">Pelagus Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Truesight SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Psychic</Skill>
+        <Skill Point="10">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">B.Wyvern Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Endurance SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Stun</Skill>
+        <Skill Point="10">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Insect Needle+</Item>
+        <Item Num="5">B.Wyvern Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Stealth SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Stealth</Skill>
+        <Skill Point="10">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Insect Carapace</Item>
+        <Item Num="5">Lynian Ruby</Item>
+      </Cost>
+    </Data>
+    <Data Name="Antivirus SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Poison</Skill>
+        <Skill Point="10">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Horn+</Item>
+        <Item Num="5">Lynian Trsr</Item>
+      </Cost>
+    </Data>
+    <Data Name="Alchemist SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Whim</Skill>
+        <Skill Point="10">Alchemy</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">F.Wyvern Tail</Item>
+        <Item Num="5">F.Wyvern Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Adrenaline SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Adrenaline</Skill>
+        <Skill Point="-20">All Res Up</Skill>
+        <Skill Point="-5">Poison</Skill>
+        <Skill Point="-20">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Insect Stinger</Item>
+        <Item Num="2">Insect Cortex</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Shot SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Normal S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+        <Item Num="5">F.Wyvern Tail</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Shot SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pierce S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Fang+</Item>
+        <Item Num="5">Insect Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Shot SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pellet S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">Piscine Scale</Item>
+      </Cost>
+    </Data>
+    <Data Name="Persistence SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Everlasting</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Lynian Trsr+</Item>
+        <Item Num="5">Insect Needle</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fullness SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Hunger</Skill>
+        <Skill Point="10">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Lynian Ruby+</Item>
+        <Item Num="5">Piscine Fin</Item>
+      </Cost>
+    </Data>
+    <Data Name="Impatience SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="10">Wide-Area</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Insect Fluid+</Item>
+        <Item Num="5">Insect Fluid</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heavenshield SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Auto-Guard</Skill>
+        <Skill Point="10">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+        <Item Num="5">Piscine Tusk</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sprit SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Stamina</Skill>
+        <Skill Point="10">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Insect Carapace</Item>
+        <Item Num="5">B.Wyvern Tail</Item>
+      </Cost>
+    </Data>
+    <Data Name="Steadiness SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Quake Res</Skill>
+        <Skill Point="10">Status Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Carapaceon Shell</Item>
+        <Item Num="5">B.Wyvern Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bullseye SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Precision</Skill>
+        <Skill Point="10">Status Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">F.Wyvern Scale</Item>
+        <Item Num="5">Lynian Trsr</Item>
+      </Cost>
+    </Data>
+    <Data Name="Para Res SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Paralysis</Skill>
+        <Skill Point="20">Thunder Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Carapaceon Pincer</Item>
+        <Item Num="5">Pelagus Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Traveller SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Terrain</Skill>
+        <Skill Point="20">Fire Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Carapaceon Blade</Item>
+        <Item Num="5">Carapaceon Pincer</Item>
+      </Cost>
+    </Data>
+    <Data Name="Protection SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Defense</Skill>
+        <Skill Point="20">Water Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">B.Wyvern Hide</Item>
+        <Item Num="5">F.Wyvern Skin</Item>
+      </Cost>
+    </Data>
+    <Data Name="Snowball SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Snowball Res</Skill>
+        <Skill Point="20">Ice Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">B.Wyvern Tail</Item>
+        <Item Num="5">Pelagus Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Launching SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Throwing</Skill>
+        <Skill Point="10">Gunnery</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">F.Wyvern Fang</Item>
+        <Item Num="5">B.Wyvern Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Resistance SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">All Res Up</Skill>
+        <Skill Point="20">Stun</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="3">Herbivore Cortex</Item>
+        <Item Num="2">Insect Thick Fluid</Item>
+      </Cost>
+    </Data>
+    <Data Name="Healthy SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Health</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Carapace</Item>
+        <Item Num="5">Lynian Ruby</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recovery SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Recov</Skill>
+        <Skill Point="10">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">Pelagus Hide</Item>
+      </Cost>
+    </Data>
+    <Data Name="Comfort SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Backpacking</Skill>
+        <Skill Point="10">Gather Speed</Skill>
+        <Skill Point="10">Gather</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Hoof+</Item>
+        <Item Num="5">Pelagus Claw</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fisherman SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Fish</Skill>
+        <Skill Point="10">Gather Speed</Skill>
+        <Skill Point="10">Gather</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Herbivore Bone+</Item>
+        <Item Num="5">Insect Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heat Res SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Heat Res</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+        <Skill Point="10">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">F.Wyvern Skin</Item>
+        <Item Num="5">Piscine Tusk</Item>
+      </Cost>
+    </Data>
+    <Data Name="Cold Res SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Cold Res</Skill>
+        <Skill Point="10">Snowball Res</Skill>
+        <Skill Point="10">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">F.Wyvern Scale</Item>
+        <Item Num="5">Carapaceon Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Doctor SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Combining</Skill>
+        <Skill Point="10">Bomb Boost</Skill>
+        <Skill Point="10">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Pelagus Tail</Item>
+        <Item Num="5">B.Wyvern Tail</Item>
+      </Cost>
+    </Data>
+    <Data Name="Food SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Cooking</Skill>
+        <Skill Point="15">Gourmand</Skill>
+        <Skill Point="10">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Carapaceon Blade</Item>
+        <Item Num="5">B.Wyvern Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Focus SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Focus</Skill>
+        <Skill Point="10">Psychic</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="5">Herbivore Pelt+</Item>
+        <Item Num="5">Piscine Tusk</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gunnery SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Gunnery</Skill>
+        <Skill Point="10">Stun</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Lazurite Jewel</Item>
+        <Item Num="5">B.Wyvern Bone+</Item>
+        <Item Num="5">F.Wyvern Horn</Item>
+      </Cost>
+    </Data>
+    <Data Name="Agility SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Speed Setup</Skill>
+        <Skill Point="10">Wpn Handling</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sunspire Jewel</Item>
+        <Item Num="5">Pelagus Fang+</Item>
+        <Item Num="5">Insect Shell</Item>
+      </Cost>
+    </Data>
+    <Data Name="Hearing SP" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="5">Quake Res</Skill>
+        <Skill Point="5">Wind Pressure</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Aquaglow Jewel</Item>
+        <Item Num="5">Lynian Trsr+</Item>
+        <Item Num="5">Pelagus Fang</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Recoil</Skill>
+        <Skill Point="-5">Precision</Skill>
+        <Skill Point="-10">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Recoil SP</Item>
+        <Item Num="10">HC Proof Purple</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recoil SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Recoil</Skill>
+        <Skill Point="10">Precision</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Recoil SP α</Item>
+        <Item Num="5">HC Crystal Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="Assault SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Attack</Skill>
+        <Skill Point="-5">Recov</Skill>
+        <Skill Point="-10">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Assault SP</Item>
+        <Item Num="10">HC Proof Blue</Item>
+        <Item Num="10">HC Proof Peach</Item>
+      </Cost>
+    </Data>
+    <Data Name="Assault SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Assault SP α</Item>
+        <Item Num="5">HC Crystal Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wind SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Wind Pressure</Skill>
+        <Skill Point="10">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Wind Pres.SP</Item>
+        <Item Num="10">HC Proof Blue</Item>
+        <Item Num="10">HC Proof Peach</Item>
+      </Cost>
+    </Data>
+    <Data Name="Wind SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Wind Pressure</Skill>
+        <Skill Point="15">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Wind SP α</Item>
+        <Item Num="5">HC Crystal Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpen SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Sharpening</Skill>
+        <Skill Point="10">Expert</Skill>
+        <Skill Point="5">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sharpen SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Orange</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sharpen SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Sharpening</Skill>
+        <Skill Point="15">Expert</Skill>
+        <Skill Point="10">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sharpen SP α</Item>
+        <Item Num="5">HC Crystal Red</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ammosmith SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Ammo Combiner</Skill>
+        <Skill Point="10">Expert</Skill>
+        <Skill Point="5">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Ammosmith SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Orange</Item>
+      </Cost>
+    </Data>
+    <Data Name="Ammosmith SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Ammo Combiner</Skill>
+        <Skill Point="15">Expert</Skill>
+        <Skill Point="10">Evasion</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Ammosmith SP α</Item>
+        <Item Num="5">HC Crystal Red</Item>
+      </Cost>
+    </Data>
+    <Data Name="Loading SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Loading</Skill>
+        <Skill Point="10">Expert</Skill>
+        <Skill Point="2">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Loading SP</Item>
+        <Item Num="10">HC Proof Gray</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+      </Cost>
+    </Data>
+    <Data Name="Loading SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Loading</Skill>
+        <Skill Point="15">Expert</Skill>
+        <Skill Point="4">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Loading SP α</Item>
+        <Item Num="5">HC Crystal Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Reload SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Reload</Skill>
+        <Skill Point="10">Expert</Skill>
+        <Skill Point="2">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Reload SP</Item>
+        <Item Num="10">HC Proof Purple</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Reload SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Reload</Skill>
+        <Skill Point="15">Expert</Skill>
+        <Skill Point="4">Hearing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Reload SP α</Item>
+        <Item Num="5">HC Crystal Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Shot SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Normal S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+        <Skill Point="5">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Normal Shot SP</Item>
+        <Item Num="10">HC Proof Blue</Item>
+        <Item Num="10">HC Proof Peach</Item>
+      </Cost>
+    </Data>
+    <Data Name="Normal Shot SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Normal S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Normal Shot SP α</Item>
+        <Item Num="5">HC Crystal Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Shot SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pierce S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+        <Skill Point="5">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Pierce Shot SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Orange</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pierce Shot SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pierce S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Pierce Shot SP α</Item>
+        <Item Num="5">HC Crystal Red</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Shot SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pellet S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+        <Skill Point="5">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Pellet Shot SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof White</Item>
+      </Cost>
+    </Data>
+    <Data Name="Pellet Shot SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Pellet S.Up</Skill>
+        <Skill Point="4">Auto-Reload</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Pellet Shot SP α</Item>
+        <Item Num="5">HC Crystal Yellow</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heavenshield SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Auto-Guard</Skill>
+        <Skill Point="15">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Heavenshield SP</Item>
+        <Item Num="10">HC Proof Purple</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heavenshield SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Auto-Guard</Skill>
+        <Skill Point="20">Guard</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Heavenshield SP α</Item>
+        <Item Num="5">HC Crystal Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sprit SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Stamina</Skill>
+        <Skill Point="10">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sprit SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof White</Item>
+      </Cost>
+    </Data>
+    <Data Name="Sprit SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Stamina</Skill>
+        <Skill Point="10">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sprit SP α</Item>
+        <Item Num="5">HC Crystal Yellow</Item>
+      </Cost>
+    </Data>
+    <Data Name="Steadiness SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Quake Res</Skill>
+        <Skill Point="10">Status Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Steadiness SP</Item>
+        <Item Num="10">HC Proof Gray</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+      </Cost>
+    </Data>
+    <Data Name="Steadiness SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Quake Res</Skill>
+        <Skill Point="10">Status Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Steadiness SP α</Item>
+        <Item Num="5">HC Crystal Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bullseye SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Precision</Skill>
+        <Skill Point="10">Status Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Bullseye SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Orange</Item>
+      </Cost>
+    </Data>
+    <Data Name="Bullseye SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Precision</Skill>
+        <Skill Point="10">Status Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Bullseye SP α</Item>
+        <Item Num="5">HC Crystal Red</Item>
+      </Cost>
+    </Data>
+    <Data Name="Traveller SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Terrain</Skill>
+        <Skill Point="20">Fire Res</Skill>
+        <Skill Point="10">Dragon Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Traveller SP</Item>
+        <Item Num="10">HC Proof Blue</Item>
+        <Item Num="10">HC Proof Peach</Item>
+      </Cost>
+    </Data>
+    <Data Name="Traveller SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Terrain</Skill>
+        <Skill Point="20">Fire Res</Skill>
+        <Skill Point="20">Dragon Attack</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Traveller SP α</Item>
+        <Item Num="5">HC Crystal Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Launching SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Throwing</Skill>
+        <Skill Point="15">Gunnery</Skill>
+        <Skill Point="10">Knife Throwing</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Launching SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof White</Item>
+      </Cost>
+    </Data>
+    <Data Name="Launching SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Throwing</Skill>
+        <Skill Point="20">Gunnery</Skill>
+        <Skill Point="20">Knife Throwing</Skill>
+        <Skill Point="10">Strong Arm</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Launching SP α</Item>
+        <Item Num="5">HC Crystal Yellow</Item>
+      </Cost>
+    </Data>
+    <Data Name="Focus SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Focus</Skill>
+        <Skill Point="15">Psychic</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Focus SP</Item>
+        <Item Num="10">HC Proof Gray</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+      </Cost>
+    </Data>
+    <Data Name="Focus SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Focus</Skill>
+        <Skill Point="15">Psychic</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Focus SP α</Item>
+        <Item Num="5">HC Crystal Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gunnery SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Gunnery</Skill>
+        <Skill Point="10">Stun</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Gunnery SP</Item>
+        <Item Num="10">HC Proof Purple</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gunnery SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Gunnery</Skill>
+        <Skill Point="10">Stun</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Gunnery SP α</Item>
+        <Item Num="5">HC Crystal Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="Agility SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Speed Setup</Skill>
+        <Skill Point="10">Wpn Handling</Skill>
+        <Skill Point="10">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Agility SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof White</Item>
+      </Cost>
+    </Data>
+    <Data Name="Agility SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Speed Setup</Skill>
+        <Skill Point="10">Wpn Handling</Skill>
+        <Skill Point="10">Eating</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Agility SP α</Item>
+        <Item Num="5">HC Crystal Yellow</Item>
+      </Cost>
+    </Data>
+    <Data Name="Hearing SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="10">Quake Res</Skill>
+        <Skill Point="5">Wind Pressure</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Hearing SP</Item>
+        <Item Num="10">HC Proof Gray</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+      </Cost>
+    </Data>
+    <Data Name="Hearing SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="10">Quake Res</Skill>
+        <Skill Point="10">Wind Pressure</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Hearing SP α</Item>
+        <Item Num="5">HC Crystal Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Craftsman SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Artisan</Skill>
+        <Skill Point="-20">Adrenaline</Skill>
+        <Skill Point="-20">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Artisan SP</Item>
+        <Item Num="10">HC Proof White</Item>
+        <Item Num="10">HC Proof Red</Item>
+      </Cost>
+    </Data>
+    <Data Name="Craftsman SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Artisan</Skill>
+        <Skill Point="-10">Adrenaline</Skill>
+        <Skill Point="-20">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Craftsman SP α</Item>
+        <Item Num="5">HC Crystal Green </Item>
+      </Cost>
+    </Data>
+    <Data Name="Killer Iron SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Sharpness</Skill>
+        <Skill Point="10">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Sharpness SP</Item>
+        <Item Num="10">HC Proof Green</Item>
+        <Item Num="10">HC Proof Red</Item>
+      </Cost>
+    </Data>
+    <Data Name="Killer Iron SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Sharpness</Skill>
+        <Skill Point="10">Expert</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Killer Iron SP α</Item>
+        <Item Num="5">HC Crystal Cyan </Item>
+      </Cost>
+    </Data>
+    <Data Name="See-Through SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Psychic</Skill>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Truesight SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="See-Through SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Psychic</Skill>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="20">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">See-Through SP α</Item>
+        <Item Num="5">HC Crystal White </Item>
+      </Cost>
+    </Data>
+    <Data Name="Endurance SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Stun</Skill>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="10">Stamina Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Endurance SP</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+        <Item Num="10">HC Proof Orange</Item>
+      </Cost>
+    </Data>
+    <Data Name="Endurance SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Stun</Skill>
+        <Skill Point="10">Hearing</Skill>
+        <Skill Point="20">Stamina Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Endurance SP α</Item>
+        <Item Num="5">HC Crystal Silver </Item>
+      </Cost>
+    </Data>
+    <Data Name="Anti-Poison SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Poison</Skill>
+        <Skill Point="10">Protection</Skill>
+        <Skill Point="10">Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Antivirus SP</Item>
+        <Item Num="10">HC Proof Peach</Item>
+        <Item Num="10">HC Proof Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Anti-Poison SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Poison</Skill>
+        <Skill Point="20">Protection</Skill>
+        <Skill Point="10">Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Anti-Poison SP α</Item>
+        <Item Num="5">HC Crystal Silver </Item>
+      </Cost>
+    </Data>
+    <Data Name="Paralysis SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Paralysis</Skill>
+        <Skill Point="20">Thunder Res</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Para Res SP</Item>
+        <Item Num="10">HC Proof White</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Paralysis SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Paralysis</Skill>
+        <Skill Point="20">Thunder Res</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Paralysis SP α</Item>
+        <Item Num="5">HC Crystal Gold </Item>
+      </Cost>
+    </Data>
+    <Data Name="Snowball SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Snowball Res</Skill>
+        <Skill Point="20">Ice Res</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Snowball SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+      </Cost>
+    </Data>
+    <Data Name="Snowball SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Snowball Res</Skill>
+        <Skill Point="20">Ice Res</Skill>
+        <Skill Point="20">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Snowball SP α</Item>
+        <Item Num="5">HC Crystal Gold </Item>
+      </Cost>
+    </Data>
+    <Data Name="Resistance SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">All Res Up</Skill>
+        <Skill Point="20">Stun</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+        <Skill Point="10">Passive</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Resistance SP</Item>
+        <Item Num="10">HC Proof Peach</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+      </Cost>
+    </Data>
+    <Data Name="Resistance SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">All Res Up</Skill>
+        <Skill Point="20">Stun</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+        <Skill Point="10">Passive</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Resistance SP α</Item>
+        <Item Num="5">HC Crystal Peach </Item>
+      </Cost>
+    </Data>
+    <Data Name="Heat Res SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Heat Res</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+        <Skill Point="20">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Heat Res SP</Item>
+        <Item Num="10">HC Proof Orange</Item>
+        <Item Num="10">HC Proof Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Heat Res SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Heat Res</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+        <Skill Point="20">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Heat Res SP α</Item>
+        <Item Num="5">HC Crystal Green </Item>
+      </Cost>
+    </Data>
+    <Data Name="Cold Res SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Cold Res</Skill>
+        <Skill Point="10">Snowball Res</Skill>
+        <Skill Point="20">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Cold Res SP</Item>
+        <Item Num="10">HC Proof White</Item>
+        <Item Num="10">HC Proof Gray</Item>
+      </Cost>
+    </Data>
+    <Data Name="Cold Res SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="25">Cold Res</Skill>
+        <Skill Point="10">Snowball Res</Skill>
+        <Skill Point="20">Protection</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Cold Res SP α</Item>
+        <Item Num="5">HC Crystal Silver </Item>
+      </Cost>
+    </Data>
+    <Data Name="Crisis SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Adrenaline</Skill>
+        <Skill Point="10">Poison</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Adrenaline SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Crisis SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Adrenaline</Skill>
+        <Skill Point="20">Poison</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Crisis SP α</Item>
+        <Item Num="5">HC Crystal Gold </Item>
+      </Cost>
+    </Data>
+    <Data Name="Health SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="30">Health</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+        <Skill Point="10">Fasting</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Healthy SP</Item>
+        <Item Num="10">HC Proof Purple</Item>
+        <Item Num="10">HC Proof Peach</Item>
+      </Cost>
+    </Data>
+    <Data Name="Health SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="40">Health</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+        <Skill Point="15">Fasting</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Health SP α</Item>
+        <Item Num="5">HC Crystal Orange </Item>
+      </Cost>
+    </Data>
+    <Data Name="Shinobi SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Stealth</Skill>
+        <Skill Point="10">Guard</Skill>
+        <Skill Point="10">Wpn Handling</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Stealth SP</Item>
+        <Item Num="10">HC Proof Orange</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+      </Cost>
+    </Data>
+    <Data Name="Shinobi SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Stealth</Skill>
+        <Skill Point="20">Guard</Skill>
+        <Skill Point="10">Wpn Handling</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Shinobi SP α</Item>
+        <Item Num="5">HC Crystal White </Item>
+      </Cost>
+    </Data>
+    <Data Name="Secret Arts SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Whim</Skill>
+        <Skill Point="10">Alchemy</Skill>
+        <Skill Point="10">Gather</Skill>
+        <Skill Point="15">Combining</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Alchemist SP</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+        <Item Num="10">HC Proof Green</Item>
+      </Cost>
+    </Data>
+    <Data Name="Secret Arts SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Whim</Skill>
+        <Skill Point="10">Alchemy</Skill>
+        <Skill Point="15">Gather</Skill>
+        <Skill Point="20">Combining</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Secret Arts SP α</Item>
+        <Item Num="5">HC Crystal Green </Item>
+      </Cost>
+    </Data>
+    <Data Name="Persistance SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Everlasting</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+        <Skill Point="10">Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Persistence SP</Item>
+        <Item Num="10">HC Proof Peach</Item>
+        <Item Num="10">HC Proof Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="Persistance SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Everlasting</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+        <Skill Point="10">Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Persistance SP α</Item>
+        <Item Num="5">HC Crystal Orange </Item>
+      </Cost>
+    </Data>
+    <Data Name="Guts SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Hunger</Skill>
+        <Skill Point="10">Evasion</Skill>
+        <Skill Point="10">Stamina Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Fullness SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Cyan</Item>
+      </Cost>
+    </Data>
+    <Data Name="Guts SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Hunger</Skill>
+        <Skill Point="20">Evasion</Skill>
+        <Skill Point="20">Stamina Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Guts SP α</Item>
+        <Item Num="5">HC Crystal White </Item>
+      </Cost>
+    </Data>
+    <Data Name="Impatience SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="10">Wide-Area</Skill>
+        <Skill Point="10">Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Impatience SP</Item>
+        <Item Num="10">HC Proof Red</Item>
+        <Item Num="10">HC Proof Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Impatience SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="20">Wide-Area</Skill>
+        <Skill Point="10">Recov</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Impatience SP α</Item>
+        <Item Num="5">HC Crystal Peach </Item>
+      </Cost>
+    </Data>
+    <Data Name="Protection SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="35">Defense</Skill>
+        <Skill Point="20">Water Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Protection SP</Item>
+        <Item Num="10">HC Proof Blue</Item>
+        <Item Num="10">HC Proof White</Item>
+      </Cost>
+    </Data>
+    <Data Name="Protection SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="45">Defense</Skill>
+        <Skill Point="20">Water Res</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Protection SP α</Item>
+        <Item Num="5">HC Crystal Peach </Item>
+      </Cost>
+    </Data>
+    <Data Name="Recovery SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Recov</Skill>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="10">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Recovery SP</Item>
+        <Item Num="10">HC Proof Blue</Item>
+        <Item Num="10">HC Proof Purple</Item>
+      </Cost>
+    </Data>
+    <Data Name="Recovery SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Recov</Skill>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="20">Recover Speed</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Recovery SP α</Item>
+        <Item Num="5">HC Crystal Silver </Item>
+      </Cost>
+    </Data>
+    <Data Name="Fast Footwork SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Backpacking</Skill>
+        <Skill Point="10">Gather Speed</Skill>
+        <Skill Point="10">Gather</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Comfort SP</Item>
+        <Item Num="10">HC Proof Orange</Item>
+        <Item Num="10">HC Proof Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Fast Footwork SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Backpacking</Skill>
+        <Skill Point="10">Gather Speed</Skill>
+        <Skill Point="15">Gather</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Fast Footwork SP α</Item>
+        <Item Num="5">HC Crystal Cyan </Item>
+      </Cost>
+    </Data>
+    <Data Name="Power Fishing SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Fish</Skill>
+        <Skill Point="10">Gather Speed</Skill>
+        <Skill Point="10">Gather</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Fisherman SP</Item>
+        <Item Num="10">HC Proof Yellow</Item>
+        <Item Num="10">HC Proof Blue</Item>
+      </Cost>
+    </Data>
+    <Data Name="Power Fishing SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="10">Fish</Skill>
+        <Skill Point="10">Gather Speed</Skill>
+        <Skill Point="15">Gather</Skill>
+        <Skill Point="10">Stamina</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Power Fishing SP α</Item>
+        <Item Num="5">HC Crystal Orange </Item>
+      </Cost>
+    </Data>
+    <Data Name="Medic SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Combining</Skill>
+        <Skill Point="10">Bomb Boost</Skill>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="10">Speed Setup</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Doctor SP</Item>
+        <Item Num="10">HC Proof Orange</Item>
+        <Item Num="10">HC Proof White</Item>
+      </Cost>
+    </Data>
+    <Data Name="Medic SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="20">Combining</Skill>
+        <Skill Point="10">Bomb Boost</Skill>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="20">Speed Setup</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Medic SP α</Item>
+        <Item Num="5">HC Crystal Gold </Item>
+      </Cost>
+    </Data>
+    <Data Name="Gastronomy SP α" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Cooking</Skill>
+        <Skill Point="15">Gourmand</Skill>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="10">Focus</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Food SP</Item>
+        <Item Num="10">HC Proof Gray</Item>
+        <Item Num="10">HC Proof Peach</Item>
+      </Cost>
+    </Data>
+    <Data Name="Gastronomy SP β" Job="共" Rare="7" Slot="1">
+      <Skills>
+        <Skill Point="15">Cooking</Skill>
+        <Skill Point="15">Gourmand</Skill>
+        <Skill Point="10">Eating</Skill>
+        <Skill Point="20">Focus</Skill>
+      </Skills>
+      <Cost Money="50000">
+        <Item Num="1">Gastronomy SP α</Item>
+        <Item Num="5">HC Crystal Cyan </Item>
+      </Cost>
+    </Data>
+  </SP>
+</Jewel>

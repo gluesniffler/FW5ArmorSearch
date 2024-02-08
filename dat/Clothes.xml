@@ -1,0 +1,6 @@
+<Clothes>
+	<Data Type="S" Slot="1">服Sスロット１</Data>
+	<Data Type="S" Slot="2">服Sスロット２</Data>
+	<Data Type="P" Slot="1" Class="(課)">服Pスロット１</Data>
+	<Data Type="P" Slot="2" Class="(課)">服Pスロット２</Data>
+</Clothes>

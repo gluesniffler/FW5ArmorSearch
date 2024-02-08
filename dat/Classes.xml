@@ -1,0 +1,70 @@
+﻿<Classes>
+	<Equip>
+		<ParentClass Name="Paid">
+			<ParentClass Name="Kit/Package">
+				<Class Text="Kit">(キ)</Class>
+				<Class Text="Package">(パ)</Class>
+				<Class Text="Ｇ級狩護防具（強化に「Ｇ強化券」が必要）">(GS)</Class>
+			</ParentClass>
+			<Class Text="Booster Pack">(BP)</Class>
+			<Class Text="Campaign">(他)</Class>
+			<Class Text="Net cafe（「Ｎの塊」を使用する防具や『ネットカフェ限定キャンペーン』で入手可能な防具）">(ネ)</Class>
+		</ParentClass>
+		<ParentClass Name="Guild">
+			<ParentClass Name="Festi">
+				<Class Text="Festi（「祭典の思い出」使用、伝説の職人でのみ生産可能）">(伝祭)</Class>
+				<Class Text="「祭典の思い出」「猟団チケット」「追加依頼達成証」を使用するＬＲ防具">(祭)</Class>
+				<Class Text="Winner/Loser（祭りのあとに【勝ち猫】／祭りのあとに【負け犬】）">(祭他)</Class>
+			</ParentClass>
+			<Class Text="猟団に所属する事で入手可能な防具（Guild tkt、イベント補助券）">(猟)</Class>
+		</ParentClass>
+		<ParentClass Name="HC">
+			<ParentClass Name="大自然の声クエスト">
+				<Class Text="LX防具（「大自然の声」「HCモンスター素材」使用）">(LX)</Class>
+				<Class Text="RX防具（「大自然の声」「HCモンスター素材」使用）">(RX)</Class>
+			</ParentClass>
+			<Class Text="Hiden（「SR武具魂」「HCモンスター素材」使用）">(SR)</Class>
+			<Class Text="HC防具(課金以外)">(HC)</Class>
+			<Class Text="狩護防具(HS防具：課金以外)">(HS)</Class>
+		</ParentClass>
+		<ParentClass Name="Goushu">
+			<Class Text="Goushu（「剛種討伐の証」使用、伝説の職人でのみ生産可能）">(剛)</Class>
+			<Class Text="Heaven(「HCモンスター素材」使用、剛種防具から強化)">(天)</Class>
+			<Class Text="Supermacy(「覇種モンスター素材」使用、天嵐防具から強化)">(覇)</Class>
+		</ParentClass>
+		<Class Text="FX防具">(FX)</Class>
+		<Class Text="Ｇ級防具">(Ｇ)</Class>
+		<Class Text="Event">(イ)</Class>
+		<Class Text="『謎のクエスト』の報酬を使用する防具（ポルタ輝石）">(謎)</Class>
+		<Class Text="Legendary artisan">(伝)</Class>
+		<Class Text="狩猟・採取で入手可能な防具（『Hunter』『Frontier』など）">無分類</Class>
+		<Class Text="Not implemented（作成素材未実装、入手クエスト未配信など）">(未)</Class>
+		<Class Text="Unobtainable（作成不可、訓練専用）">(不)</Class>
+	</Equip>
+	<Jewelry>
+		<ParentClass Name="Cuff P">
+			<Class Text="「カフＰＡ生産券」「カフＰＢ生産券」「カフＰＣ生産券」で生産可能">(P)</Class>
+			<Class Text="「カフＰＡ生産券Ⅱ」「カフＰＢ生産券Ⅱ」「カフＰＣ生産券Ⅱ」で生産可能">(P_Ⅱ)</Class>
+			<Class Text="『ネットカフェイベント特典』で入手可能">(P_ネ)</Class>
+			<Class Text="『twitter特典』で入手可能">(P_イ)</Class>
+			<Class Text="「カフの素・Ｎ」未実装">(P_未)</Class>
+			<Class Text="詳細不明">(P_不)</Class>
+		</ParentClass>
+		<ParentClass Name="Cuff S">
+			<Class Text="『プーギーと僕クエスト』で入手可能">(S)</Class>
+			<Class Text="『イベントクエスト』で入手可能、「シトゥルゥコイン」で生産可能">(S_イ)</Class>
+			<Class Text="「ポルタ輝石」で生産可能">(S_謎)</Class>
+			<Class Text="『韋駄天クエスト』で入手可能、「匠の根性、匠の心、匠の意地」で生産可能">(S_韋)</Class>
+			<Class Text="「猟団チケット」「イベント補助券」で生産可能">(S_猟)</Class>
+			<Class Text="「カフの素・祭」「祭典の思い出」で生産可能">(S_祭)</Class>
+			<Class Text="「カフの素・薄香」「カフの素・菊」「カフの素・丹」未実装">(S_未)</Class>
+			<Class Text="詳細不明">(S_不)</Class>
+		</ParentClass>
+		<ParentClass Name="Decos">
+			<Class Text="Hunt・Gather">無分類</Class>
+			<Class Text="G rank(not implemented)">(Ｇ)</Class>
+			<Class Text="not implemented（作成素材未実装、入手クエスト未配信など）">(未)</Class>
+			<Class Text="Unobtainable（作成不可、訓練専用）">(不)</Class>
+		</ParentClass>
+	</Jewelry>
+</Classes>

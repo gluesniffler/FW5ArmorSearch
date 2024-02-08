@@ -1,0 +1,679 @@
+<Skill>
+  <SkillType TypeName="Health・Stamina">
+    <Data ID="0160" Name="Stamina Recov">
+      <Option Point="20">Stamina Rec (Large)</Option>
+      <Option Point="10">Stamina Rec (Small)</Option>
+      <Option Point="-10">Stamina Rec Down</Option>
+    </Data>
+    <Data ID="0290" Name="Health">
+      <Option Point="40">Health+50</Option>
+      <Option Point="30">Health+40</Option>
+      <Option Point="20">Health+30</Option>
+      <Option Point="15">Health+20</Option>
+      <Option Point="10">Health+10</Option>
+      <Option Point="-10">Health-10</Option>
+      <Option Point="-15">Health-20</Option>
+      <Option Point="-20">Health-30</Option>
+    </Data>
+    <Data ID="0300" Name="Recover Speed">
+      <Option Point="20">Recovery Speed +2</Option>
+      <Option Point="10">Recovery Speed +1</Option>
+      <Option Point="-10">Recovery Speed -1</Option>
+      <Option Point="-20">Recovery Speed -2</Option>
+    </Data>
+    <Data ID="0510" Name="Hunger">
+      <Option Point="15">Hunger Negated</Option>
+      <Option Point="10">Hunger Halved</Option>
+      <Option Point="-10">Hunger Up (Small)</Option>
+      <Option Point="-15">Hunger Up (Large)</Option>
+    </Data>
+    <Data ID="0520" Name="Gourmand">
+      <Option Point="15">Scavenger</Option>
+      <Option Point="10">Gourmand</Option>
+    </Data>
+    <Data ID="0760" Name="Recov">
+      <Option Point="10">Recovery Items Up</Option>
+      <Option Point="-10">Recovery Items Down</Option>
+    </Data>
+    <Data ID="0830" Name="Stamina">
+      <Option Point="20">Peerless</Option>
+      <Option Point="10">Marathon Runner</Option>
+      <Option Point="-10">Short Sprinter</Option>
+    </Data>
+    <Data ID="0870" Name="Eating">
+      <Option Point="10">Speed Eating</Option>
+      <Option Point="-10">Slow Eating</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Attack">
+    <Data ID="0140" Name="Wpn Handling">
+      <Option Point="10">Wpn Handling</Option>
+    </Data>
+    <Data ID="0330" Name="Expert">
+      <Option Point="50">Critical Eye +5</Option>
+      <Option Point="35">Critical Eye +4</Option>
+      <Option Point="20">Critical Eye +3</Option>
+      <Option Point="15">Critical Eye +2</Option>
+      <Option Point="10">Critical Eye +1</Option>
+    </Data>
+    <Data ID="0490" Name="Status Attack">
+      <Option Point="10">Status Attack Up</Option>
+    </Data>
+    <Data ID="0500" Name="Bomb Boost">
+      <Option Point="10">Bomber</Option>
+    </Data>
+    <Data ID="0530" Name="Attack">
+      <Option Point="80">Attack Up Absolute</Option>
+      <Option Point="50">Attack Up Very Large</Option>
+      <Option Point="25">Attack Up Large</Option>
+      <Option Point="15">Attack Up Medium</Option>
+      <Option Point="10">Attack Up Small</Option>
+    </Data>
+    <Data ID="0810" Name="Adrenaline">
+      <Option Point="30">Worry(30)</Option>
+      <Option Point="21">Adrenaline+1(21)</Option>
+      <Option Point="15">Adrenaline+2</Option>
+      <Option Point="10">Adrenaline+1</Option>
+      <Option Point="-15">Worry</Option>
+    </Data>
+    <Data ID="0930" Name="Gunnery">
+      <Option Point="35">Artillery God</Option>
+      <Option Point="20">Artillery Expert</Option>
+      <Option Point="10">Gunnery</Option>
+    </Data>
+    <Data ID="0960" Name="Taijutsu">
+      <Option Point="20">Kickboxing King</Option>
+      <Option Point="10">Taijutsu</Option>
+    </Data>
+    <Data ID="1110" Name="Fasting">
+      <Option Point="20">Starving Wolf+2</Option>
+      <Option Point="10">Starving Wolf+1</Option>
+    </Data>
+    <Data ID="1210" Name="Focus">
+      <Option Point="20">Focus+2</Option>
+      <Option Point="10">Focus+1</Option>
+      <Option Point="-10">Distraction</Option>
+    </Data>
+    <Data ID="1220" Name="剛撃">
+      <Option Point="40">剛撃+5</Option>
+      <Option Point="30">剛撃+4</Option>
+      <Option Point="20">剛撃+3</Option>
+      <Option Point="15">剛撃+2</Option>
+    </Data>
+    <Data ID="1230" Name="一閃">
+      <Option Point="30">一閃+3</Option>
+      <Option Point="20">一閃+2</Option>
+      <Option Point="10">一閃+1</Option>
+    </Data>
+    <Data ID="1240" Name="痛撃">
+      <Option Point="20">弱点特効</Option>
+      <Option Point="-10">弱点苦手</Option>
+    </Data>
+    <Data ID="1250" Name="鼓舞">
+      <Option Point="20">激励+2</Option>
+      <Option Point="10">激励+1</Option>
+    </Data>
+    <Data ID="1260" Name="逆境">
+      <Option Point="20">不撓不屈</Option>
+      <Option Point="10">不屈</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Defense">
+    <Data ID="0350" Name="Guard">
+      <Option Point="20">Guard+2</Option>
+      <Option Point="10">Guard+1</Option>
+      <Option Point="-10">Guard-1</Option>
+      <Option Point="-15">Guard-2</Option>
+    </Data>
+    <Data ID="0360" Name="Auto-Guard">
+      <Option Point="10">Auto-Guard</Option>
+    </Data>
+    <Data ID="0540" Name="Defense">
+      <Option Point="45">Defense+120</Option>
+      <Option Point="35">Defense+90</Option>
+      <Option Point="25">Defense+60</Option>
+      <Option Point="15">Defense+30</Option>
+      <Option Point="10">Defense+20</Option>
+      <Option Point="-10">Defense-20</Option>
+      <Option Point="-15">Defense-30</Option>
+      <Option Point="-20">Defense-40</Option>
+    </Data>
+    <Data ID="1270" Name="生命力">
+      <Option Point="30">生命力+3</Option>
+      <Option Point="15">生命力+2</Option>
+      <Option Point="10">生命力+1</Option>
+      <Option Point="-10">生命力-1</Option>
+    </Data>
+    <Data ID="1280" Name="反射">
+      <Option Point="20">反射+3</Option>
+      <Option Point="15">反射+2</Option>
+      <Option Point="10">反射+1</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Blademaster">
+    <Data ID="0200" Name="Fencing">
+      <Option Point="20">Fencing+2</Option>
+      <Option Point="10">Fencing+1</Option>
+    </Data>
+    <Data ID="0310" Name="Sharpness">
+      <Option Point="20">Razor Sharp +2</Option>
+      <Option Point="10">Razor Sharp +1</Option>
+      <Option Point="-10">Blunt Edge</Option>
+    </Data>
+    <Data ID="0320" Name="Artisan">
+      <Option Point="10">Sharpness+1</Option>
+    </Data>
+    <Data ID="0340" Name="Sharpening">
+      <Option Point="20">砥匠</Option>
+      <Option Point="10">Speed Sharpening</Option>
+      <Option Point="-10">Slothful Sharpening</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Ranged">
+    <Data ID="0380" Name="Reload">
+      <Option Point="20">Reload Speed+3</Option>
+      <Option Point="15">Reload Speed+2</Option>
+      <Option Point="10">Reload Speed+1</Option>
+      <Option Point="-10">Reload Speed-1</Option>
+    </Data>
+    <Data ID="0390" Name="Auto-Reload">
+      <Option Point="10">Auto-Reload</Option>
+    </Data>
+    <Data ID="0400" Name="Recoil">
+      <Option Point="15">Recoil Reduction+2</Option>
+      <Option Point="10">Recoil Reduction+1</Option>
+    </Data>
+    <Data ID="0410" Name="Normal S.Up">
+      <Option Point="10">Normal/Rapid Up</Option>
+    </Data>
+    <Data ID="0420" Name="Pierce S.Up">
+      <Option Point="10">Pierce/Pierce Up</Option>
+    </Data>
+    <Data ID="0430" Name="Pellet S.Up">
+      <Option Point="10">Pellet/Spread Up</Option>
+    </Data>
+    <Data ID="0440" Name="Normal S.Add">
+      <Option Point="15">Normal S All</Option>
+      <Option Point="10">通常弾ＬＶ１追加</Option>
+    </Data>
+    <Data ID="0450" Name="Pierce S.Add">
+      <Option Point="20">Pierce S+ All</Option>
+      <Option Point="15">貫通弾ＬＶ１＆２追加</Option>
+      <Option Point="10">Pierce S+ Lv1</Option>
+    </Data>
+    <Data ID="0460" Name="Pellet S.Add">
+      <Option Point="20">Pellet S+ All</Option>
+      <Option Point="15">散弾ＬＶ１＆２追加</Option>
+      <Option Point="10">Pellet S+ Lv1</Option>
+    </Data>
+    <Data ID="0470" Name="Crag S.Add">
+      <Option Point="20">Crag S All</Option>
+      <Option Point="15">徹甲榴弾ＬＶ１＆２追加</Option>
+      <Option Point="10">Crag S Lv1</Option>
+    </Data>
+    <Data ID="0480" Name="Clust S.Add">
+      <Option Point="20">Cluster S+ All</Option>
+      <Option Point="15">拡散弾ＬＶ１＆２追加</Option>
+      <Option Point="10">Cluster S+ Lv1</Option>
+    </Data>
+    <Data ID="0780" Name="Ammo Combiner">
+      <Option Point="10">Maximum Bullets</Option>
+    </Data>
+    <Data ID="0840" Name="Loading">
+      <Option Point="10">Load UP</Option>
+    </Data>
+    <Data ID="0850" Name="Precision">
+      <Option Point="20">Precision+2</Option>
+      <Option Point="10">Deviation Down</Option>
+      <Option Point="-10">Deviation Up</Option>
+    </Data>
+    <Data ID="1030" Name="Poison C.Add">
+      <Option Point="10">Poison Coatings Add</Option>
+    </Data>
+    <Data ID="1040" Name="Para C.Add">
+      <Option Point="10">Poison Coating Add</Option>
+    </Data>
+    <Data ID="1050" Name="Sleep C.Add">
+      <Option Point="10">Sleep Coatings Add</Option>
+    </Data>
+    <Data ID="1290" Name="速射">
+      <Option Point="10">速射</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Element Attack">
+    <Data ID="0150" Name="Element Attack">
+      <Option Point="10">Elemental Attack Up</Option>
+      <Option Point="-10">Elemental Attack Down</Option>
+    </Data>
+    <Data ID="1060" Name="Fire Attack">
+      <Option Point="20">Fire Attack (Large)</Option>
+      <Option Point="10">Fire Attack (Small)</Option>
+    </Data>
+    <Data ID="1070" Name="Water Attack">
+      <Option Point="20">Water Attack (Large)</Option>
+      <Option Point="10">Water Attack (Small)</Option>
+    </Data>
+    <Data ID="1080" Name="Thunder Attack">
+      <Option Point="20">Thunder Attack (Large)</Option>
+      <Option Point="10">Thunder Attack (Small)</Option>
+    </Data>
+    <Data ID="1090" Name="Ice Attack">
+      <Option Point="20">Ice Attack (Large)</Option>
+      <Option Point="10">Ice Attack (Small)</Option>
+    </Data>
+    <Data ID="1100" Name="Dragon Attack">
+      <Option Point="20">Dragon Attack (Large)</Option>
+      <Option Point="10">Dragon Attack (Small)</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Sword">
+    <Data ID="1120" Name="Blast Sword">
+      <Option Point="20">Blast Sword+3</Option>
+      <Option Point="15">Blast Sword+2</Option>
+      <Option Point="10">Blast Sword+1</Option>
+    </Data>
+    <Data ID="1130" Name="Poison Sword">
+      <Option Point="20">Poison Sword+3</Option>
+      <Option Point="15">Poison Sword+2</Option>
+      <Option Point="10">Poison Sword+1</Option>
+    </Data>
+    <Data ID="1140" Name="Para Sword">
+      <Option Point="20">Para Sword+3</Option>
+      <Option Point="15">Para Sword+2</Option>
+      <Option Point="10">Para Sword+1</Option>
+    </Data>
+    <Data ID="1150" Name="Sleep Sword">
+      <Option Point="20">Sleep Sword+3</Option>
+      <Option Point="15">Sleep Sword+2</Option>
+      <Option Point="10">Sleep Sword+1</Option>
+    </Data>
+    <Data ID="1160" Name="Fire Sword">
+      <Option Point="20">Fire Sword+3</Option>
+      <Option Point="15">Fire Sword+2</Option>
+      <Option Point="10">Fire Sword+1</Option>
+    </Data>
+    <Data ID="1170" Name="Water Sword">
+      <Option Point="20">Water Sword+3</Option>
+      <Option Point="15">Water Sword+2</Option>
+      <Option Point="10">Water Sword+1</Option>
+    </Data>
+    <Data ID="1180" Name="Thunder Sword">
+      <Option Point="20">Thunder Sword+3</Option>
+      <Option Point="15">Thunder Sword+2</Option>
+      <Option Point="10">Thunder Sword+1</Option>
+    </Data>
+    <Data ID="1190" Name="Ice Sword">
+      <Option Point="20">Ice Sword+3</Option>
+      <Option Point="15">Ice Sword+2</Option>
+      <Option Point="10">Ice Sword+1</Option>
+    </Data>
+    <Data ID="1200" Name="Dragon Sword">
+      <Option Point="20">Dragon Sword+3</Option>
+      <Option Point="15">Dragon Sword+2</Option>
+      <Option Point="10">Dragon Sword+1</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Hiden">
+    <Data ID="0010" Name="SnS Tech">
+      <Option Point="30">SnS Tech (Sword Saint)</Option>
+      <Option Point="20">SnS Tech (Kaiden)</Option>
+      <Option Point="10">SnS Tech (Expert)</Option>
+      <Option Point="-10">SnS Tech (Novice)</Option>
+    </Data>
+    <Data ID="0020" Name="DS Tech">
+      <Option Point="30">DS Tech (Dual Dragon)</Option>
+      <Option Point="20">DS Tech (Kaiden)</Option>
+      <Option Point="10">DS Tech (Expert)</Option>
+      <Option Point="-10">DS Tech (Novice)</Option>
+    </Data>
+    <Data ID="0030" Name="GS Tech">
+      <Option Point="30">GS Tech (Sword King)</Option>
+      <Option Point="20">GS Tech (Kaiden)</Option>
+      <Option Point="10">GS Tech (Expert)</Option>
+      <Option Point="-10">GS Tech (Novice)</Option>
+    </Data>
+    <Data ID="0040" Name="LS Tech">
+      <Option Point="30">LS Tech (Katana God)</Option>
+      <Option Point="20">LS Tech (Kaiden)</Option>
+      <Option Point="10">LS Tech (Expert)</Option>
+      <Option Point="-10">LS Tech (Novice)</Option>
+    </Data>
+    <Data ID="0050" Name="Hammer Tech">
+      <Option Point="30">Hammer Tech (B. Beast)</Option>
+      <Option Point="20">Hammer Tech (Kaiden)</Option>
+      <Option Point="10">Hammer Tech (Expert)</Option>
+      <Option Point="-10">Hammer Tech (Novice)</Option>
+    </Data>
+    <Data ID="0060" Name="HH Tech">
+      <Option Point="30">HH Tech (F. Emperor)</Option>
+      <Option Point="20">HH Tech (Kaiden)</Option>
+      <Option Point="10">HH Tech (Expert)</Option>
+      <Option Point="-10">HH Tech (Novice)</Option>
+    </Data>
+    <Data ID="0070" Name="Lance Tech">
+      <Option Point="30">Lance Tech (H. Spear)</Option>
+      <Option Point="20">Lance Tech (Kaiden)</Option>
+      <Option Point="10">Lance Tech (Expert)</Option>
+      <Option Point="-10">Lance Tech (Novice)</Option>
+    </Data>
+    <Data ID="0080" Name="GL Tech">
+      <Option Point="30">GL Tech (Cannon Ruler)</Option>
+      <Option Point="20">GL Tech (Kaiden)</Option>
+      <Option Point="10">GL Tech (Expert)</Option>
+      <Option Point="-10">GL Tech (Novice)</Option>
+    </Data>
+    <Data ID="0090" Name="HBG Tech">
+      <Option Point="30">HBG Tech (Gun Sage)</Option>
+      <Option Point="20">HBG Tech (Kaiden)</Option>
+      <Option Point="10">HBG Tech (Expert)</Option>
+      <Option Point="-10">HBG Tech (Novice)</Option>
+    </Data>
+    <Data ID="0100" Name="LBG Tech">
+      <Option Point="30">LBG Tech (Gun Prodigy)</Option>
+      <Option Point="20">LBG Tech (Kaiden)</Option>
+      <Option Point="10">LBG Tech (Expert)</Option>
+      <Option Point="-10">LBG Tech (Novice)</Option>
+    </Data>
+    <Data ID="0110" Name="Bow Tech">
+      <Option Point="30">Bow Tech (Bow Demon)</Option>
+      <Option Point="20">Bow Tech (Kaiden)</Option>
+      <Option Point="10">Bow Tech (Expert)</Option>
+      <Option Point="-10">Bow Tech (Novice)</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Res">
+    <Data ID="0600" Name="All Res Up">
+      <Option Point="20">All Res Up +20</Option>
+      <Option Point="15">All Res Up +10</Option>
+      <Option Point="10">All Res Up +5</Option>
+      <Option Point="-10">All Res -5</Option>
+      <Option Point="-15">All Res -10</Option>
+      <Option Point="-20">All Res -20</Option>
+    </Data>
+    <Data ID="0610" Name="Fire Res">
+      <Option Point="20">Fire Res+30</Option>
+      <Option Point="15">Fire Res+20</Option>
+      <Option Point="10">Fire Res+10</Option>
+      <Option Point="-10">Fire Res-10</Option>
+      <Option Point="-15">Fire Res-20</Option>
+      <Option Point="-20">Fire Res-30</Option>
+    </Data>
+    <Data ID="0620" Name="Water Res">
+      <Option Point="20">Water Res+30</Option>
+      <Option Point="15">Water Res+20</Option>
+      <Option Point="10">Water Res+10</Option>
+      <Option Point="-10">Water Res-10</Option>
+      <Option Point="-15">Water Res-20</Option>
+      <Option Point="-20">Water Res-30</Option>
+    </Data>
+    <Data ID="0630" Name="Ice Res">
+      <Option Point="20">Ice Res+30</Option>
+      <Option Point="15">Ice Res+20</Option>
+      <Option Point="10">Ice Res+10</Option>
+      <Option Point="-10">Ice Res-10</Option>
+      <Option Point="-15">Ice Res-20</Option>
+      <Option Point="-20">Ice Res-30</Option>
+    </Data>
+    <Data ID="0640" Name="Thunder Res">
+      <Option Point="20">Thunder Res +30</Option>
+      <Option Point="15">Thunder Res +20</Option>
+      <Option Point="10">Thunder Res +10</Option>
+      <Option Point="-10">Thunder Res -10</Option>
+      <Option Point="-15">Thunder Res -20</Option>
+      <Option Point="-20">Thunder Res -30</Option>
+    </Data>
+    <Data ID="0650" Name="Dragon Res">
+      <Option Point="20">Dragon Res+30</Option>
+      <Option Point="15">Dragon Res+20</Option>
+      <Option Point="10">Dragon Res+10</Option>
+      <Option Point="-10">Dragon Res-10</Option>
+      <Option Point="-15">Dragon Res-20</Option>
+      <Option Point="-20">Dragon Res-30</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Status">
+    <Data ID="0190" Name="Def Lock">
+      <Option Point="10">Def Lock</Option>
+    </Data>
+    <Data ID="0210" Name="Status Res">
+      <Option Point="20">Status Immunity</Option>
+      <Option Point="10">Status Halved</Option>
+      <Option Point="-10">Status Doubled</Option>
+    </Data>
+    <Data ID="0220" Name="Paralysis">
+      <Option Point="20">Negate Para</Option>
+      <Option Point="10">Para Halved</Option>
+      <Option Point="-10">Para Doubled</Option>
+    </Data>
+    <Data ID="0230" Name="Sleep">
+      <Option Point="20">Negate Sleep</Option>
+      <Option Point="10">Sleep Halved</Option>
+      <Option Point="-10">Sleep Doubled</Option>
+    </Data>
+    <Data ID="0240" Name="Stun">
+      <Option Point="20">Negate Stun</Option>
+      <Option Point="10">Stun　Halved</Option>
+      <Option Point="-10">Stun Doubled</Option>
+    </Data>
+    <Data ID="0250" Name="Poison">
+      <Option Point="20">Negate Poison</Option>
+      <Option Point="10">Poison Halved</Option>
+      <Option Point="-10">Double Poison</Option>
+    </Data>
+    <Data ID="0260" Name="Deoderant">
+      <Option Point="10">Deoderant</Option>
+    </Data>
+    <Data ID="0270" Name="Snowball Res">
+      <Option Point="10">Snowball Res</Option>
+    </Data>
+    <Data ID="0910" Name="Vocal Chords">
+      <Option Point="15">Vocal Chord Immunity</Option>
+      <Option Point="10">Vocal Chord Halved</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Other Protection">
+    <Data ID="0120" Name="Guts">
+      <Option Point="30">真根性</Option>
+      <Option Point="20">Great Guts</Option>
+      <Option Point="10">Guts</Option>
+    </Data>
+    <Data ID="0550" Name="Protection">
+      <Option Point="20">Goddess' Embrace</Option>
+      <Option Point="10">Divine Protection</Option>
+      <Option Point="-10">Demonic Protection</Option>
+      <Option Point="-20">Death God's Embrace</Option>
+    </Data>
+    <Data ID="0560" Name="Hearing">
+      <Option Point="25">Super Earplugs</Option>
+      <Option Point="15">High-Grade Earplugs</Option>
+      <Option Point="10">Earplugs</Option>
+    </Data>
+    <Data ID="0570" Name="Anti-Theft">
+      <Option Point="10">Anti-Theft</Option>
+    </Data>
+    <Data ID="0660" Name="Heat Res">
+      <Option Point="25">Summer Person</Option>
+      <Option Point="15">Heat Cancel</Option>
+      <Option Point="10">Heat Halved</Option>
+      <Option Point="-10">Heat Surge (Small)</Option>
+      <Option Point="-20">Heat Surge (Large)</Option>
+    </Data>
+    <Data ID="0670" Name="Cold Res">
+      <Option Point="25">Winter General</Option>
+      <Option Point="15">Cold Cancel</Option>
+      <Option Point="10">Cold Halved</Option>
+      <Option Point="-10">Cold Surge (Small)</Option>
+      <Option Point="-20">Cold Surge (Large)</Option>
+    </Data>
+    <Data ID="0680" Name="Wind Pressure">
+      <Option Point="30">Violent Wind Breaker</Option>
+      <Option Point="20">Dragon Wind Breaker</Option>
+      <Option Point="15">Wind Res (Large)</Option>
+      <Option Point="10">Wind Res (Small)</Option>
+    </Data>
+    <Data ID="0800" Name="Evasion">
+      <Option Point="20">Evasion+2</Option>
+      <Option Point="10">Evasion+1</Option>
+    </Data>
+    <Data ID="0890" Name="Terrain">
+      <Option Point="15">Hazard Res (Large)</Option>
+      <Option Point="10">Hazard Res (Small)</Option>
+      <Option Point="-10">Hazard Prone (Small)</Option>
+      <Option Point="-15">Hazard Prone (Large)</Option>
+    </Data>
+    <Data ID="0900" Name="Quake Res">
+      <Option Point="25">Quake Res+2</Option>
+      <Option Point="15">Quake Res+1</Option>
+    </Data>
+    <Data ID="0990" Name="Passive">
+      <Option Point="10">Passive</Option>
+    </Data>
+    <Data ID="1300" Name="警戒">
+      <Option Point="10">警戒</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Item・Combo">
+    <Data ID="0130" Name="Speed Setup">
+      <Option Point="20">Trap Master</Option>
+      <Option Point="10">Trap Expert</Option>
+    </Data>
+    <Data ID="0170" Name="Knife Throwing">
+      <Option Point="20">Throwing Knives+2</Option>
+      <Option Point="10">Throwing Knives+1</Option>
+    </Data>
+    <Data ID="0370" Name="Throwing">
+      <Option Point="10">Throwing Distance Up</Option>
+    </Data>
+    <Data ID="0580" Name="Wide-Area">
+      <Option Point="30">広域化+3</Option>
+      <Option Point="20">Wide-Area+2</Option>
+      <Option Point="10">Wide-Area+1</Option>
+      <Option Point="-10">広域化-1</Option>
+    </Data>
+    <Data ID="0720" Name="Whim">
+      <Option Point="15">Divine Whim</Option>
+      <Option Point="10">Spirit's Whim</Option>
+      <Option Point="-10">Spectre's Whim</Option>
+      <Option Point="-15">Devil's Whim</Option>
+    </Data>
+    <Data ID="0740" Name="Fish">
+      <Option Point="10">Fishing Expert</Option>
+    </Data>
+    <Data ID="0770" Name="Combining">
+      <Option Point="20">Combination+30%</Option>
+      <Option Point="15">Combination+15%</Option>
+      <Option Point="10">Combination+10%</Option>
+      <Option Point="-10">Combination-5%</Option>
+    </Data>
+    <Data ID="0790" Name="Alchemy">
+      <Option Point="10">Alchemy</Option>
+    </Data>
+    <Data ID="0820" Name="Everlasting">
+      <Option Point="10">Item Duration UP</Option>
+      <Option Point="-10">Item Duration DOWN</Option>
+    </Data>
+    <Data ID="0920" Name="Cooking">
+      <Option Point="15">BBQ Master</Option>
+      <Option Point="10">BBQ Expert</Option>
+      <Option Point="-10">False BBQ Expert</Option>
+    </Data>
+    <Data ID="0940" Name="Flute Expert">
+      <Option Point="10">Flute Expert</Option>
+    </Data>
+    <Data ID="0970" Name="Strong Arm">
+      <Option Point="20">Strong Arm+2</Option>
+      <Option Point="10">Strong Arm+1</Option>
+    </Data>
+    <Data ID="1310" Name="調合師">
+      <Option Point="20">調合師+3</Option>
+      <Option Point="15">調合師+2</Option>
+      <Option Point="10">調合師+1</Option>
+      <Option Point="-10">調合師-1</Option>
+    </Data>
+    <Data ID="1320" Name="狩人">
+      <Option Point="20">ハンター満喫</Option>
+      <Option Point="10">ハンター生活</Option>
+    </Data>
+    <Data ID="1330" Name="鉄腕">
+      <Option Point="20">鉄腕+2</Option>
+      <Option Point="10">鉄腕+1</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Map・Detect">
+    <Data ID="0280" Name="Stealth">
+      <Option Point="10">Sneak</Option>
+      <Option Point="-10">Taunt</Option>
+    </Data>
+    <Data ID="0690" Name="Map">
+      <Option Point="10">Map</Option>
+    </Data>
+    <Data ID="0750" Name="Psychic">
+      <Option Point="15">Autotracker</Option>
+      <Option Point="10">Detect</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Gather・Backpacking">
+    <Data ID="0590" Name="Backpacking">
+      <Option Point="10">Pro Transporter</Option>
+    </Data>
+    <Data ID="0700" Name="Gather">
+      <Option Point="15">Gathering +2</Option>
+      <Option Point="10">Gathering +1</Option>
+      <Option Point="-10">Gathering -1</Option>
+      <Option Point="-15">Gathering -2</Option>
+    </Data>
+    <Data ID="0710" Name="Gather Speed">
+      <Option Point="10">Hi-Speed Gathering</Option>
+    </Data>
+    <Data ID="0880" Name="Carving">
+      <Option Point="15">Carving Expert</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Reward">
+    <Data ID="0730" Name="Fate">
+      <Option Point="20">Great Luck</Option>
+      <Option Point="10">Good Luck</Option>
+      <Option Point="-10">Bad Luck</Option>
+      <Option Point="-20">Horrible Luck</Option>
+    </Data>
+    <Data ID="0860" Name="Monster">
+      <Option Point="10">Come on Big Guy!</Option>
+    </Data>
+    <Data ID="1010" Name="Pressure">
+      <Option Point="20">Pressure (Large)</Option>
+      <Option Point="10">Pressure (Small)</Option>
+    </Data>
+    <Data ID="1020" Name="Capture Pro.">
+      <Option Point="20">Capture Guru</Option>
+      <Option Point="10">Capture Pro.</Option>
+    </Data>
+  </SkillType>
+  <SkillType TypeName="Other">
+    <Data ID="0180" Name="Caring">
+      <Option Point="45">Caring+3</Option>
+      <Option Point="25">Caring+2</Option>
+      <Option Point="10">Caring+1</Option>
+    </Data>
+    <Data ID="0950" Name="Breakout">
+      <Option Point="10">Breakout</Option>
+    </Data>
+    <Data ID="0980" Name="Inspiration">
+      <Option Point="10">Inspiration</Option>
+    </Data>
+    <Data ID="1000" Name="Bond">
+      <Option Point="10">Bond</Option>
+    </Data>
+    <Data ID="1340" Name="ブリーダー">
+      <Option Point="10">ブリーダー</Option>
+    </Data>
+    <Data ID="1350" Name="救援">
+      <Option Point="10">救援</Option>
+    </Data>
+    <Data ID="1360" Name="怒">
+      <Option Point="10">怒</Option>
+    </Data>
+    <Data ID="1370" Name="装着">
+      <Option Point="10">装着</Option>
+    </Data>
+  </SkillType>
+</Skill>
